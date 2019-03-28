@@ -1,0 +1,55 @@
+---
+title: wxMP3Val
+layout: post
+date: 2011-02-07 23:10
+image: https://raw.githubusercontent.com/cfgnunes/wxmp3val/master/debian/menu/icon64x64.png
+headerImage: true
+tag:
+- audio
+- application
+star: false
+category: project
+author: cfgnunes
+description: A tool for checking MP3 files integrity.
+externalLink: false
+projects: true
+hidden: true
+---
+
+## Intoduction
+
+wxMP3val is a free front-end for the MP3val. Dedicated to MP3 files, wxMP3val lets you scan your music collection for corrupt files, incomplete downloads, and missing tags in an attempt to fix them.
+
+Using it is pretty simple. Once finished adding files or the folders that contain your MP3 tracks to its main window (supports drag-n-drop), hit the ‘Scan’ button, if it finds errors, then those tracks will be marked in Red. For fixing the tracks, click on the ‘Repair’ button, that’s it!
+
+![Screenshot](https://a.fsdn.com/con/app/proj/wxmp3val/screenshots/Main.png/max/max/1)
+
+## Features
+
+* Supports batch file (MP3) scanning and repairing;
+* Once scanned, it shows details such as the audio layer version, meta-tag version, if the file was encoded using CBR (constant bit rate) and the condition ("OK" means you’re good to go, "PROBLEM" means, oh you know :D);
+* "MP3val" can fix some of those playback/encode issues but it's recommended that you keep a backup of the original files first, just in case.
+
+## Informations
+
+* Latest version: 3.7 (22 Feb 2015) (See the [Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3val/master/docs/CHANGELOG))
+* License: Open Source (See the [License](https://raw.githubusercontent.com/cfgnunes/wxmp3val/master/docs/COPYING))
+* System requirements: Microsoft Windows XP/Vista/7/8/10 or GNU/Linux
+
+<div class="buttons">
+    <a class="download" href="https://sourceforge.net/projects/wxmp3val/files/latest/download" target="_blank">
+        <svg class="icon icon-download"><use xlink:href="#icon-download"></use></svg><span class="icon-download">Download</span>
+    </a>
+    <a class="source" href="https://github.com/cfgnunes/wxmp3val" target="_blank">
+        <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg><span class="icon-github">Source Code</span>
+    </a>
+</div>
+
+## Who's talking about...
+
+<ul>
+    <li><a href="https://www.softpedia.com/get/Multimedia/Audio/Other-AUDIO-Tools/wxMP3val.shtml" target="_blank">Softpedia</a></li>
+    <li><a href="https://www.hecticgeek.com/2012/05/wxmp3val-mp3-integrity-checking-repairing/" target="_blank">Hecticgeek</a></li>
+    <li><a href="https://codecpack.co/download/wxMP3val.html" target="_blank">Codecpack</a></li>
+    <li><a href="http://tecnicolinux.blogspot.com/2013/06/wxmp3val-wxlame-e-wxmp3gain-verificador.html" target="_blank">O espaço do Software Livre</a></li>
+</ul>

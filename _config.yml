@@ -1,11 +1,11 @@
-# main text of home
+# Main text of home
 name: John Doe
 bio: A Man who travels the world eating noodles
 
-# twitter summary info
+# Twitter summary info
 description: A blog about technology and stuff related
 
-# if it's an external image, update below for true
+# If it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
@@ -17,7 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+# Your url: http://USERNAME.github.io
 
 permalink: /:title/
 
@@ -28,12 +28,12 @@ permalink: /:title/
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
-# if you don't want comments in your posts, leave categories empty
+# If you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
-# if you don't have any of social below, comment the line
+# If you don't have any of social below, comment the line
 facebook: myfacebook
 twitter: mytwitter
 # instagram: myinstagram
@@ -66,38 +66,36 @@ authors:
         picture: assets/images/james.jpg
         twitter: jamesfoster
 
-# do you want a larger site? change the option below
+# Do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
 width: normal
 
-# if you don't need pagination, comment the *paginate* configs below
+# If you don't need pagination, comment the *paginate* configs below
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-# if you don't need projects, comment the *projects* configs below
+# Enable or disable the pages
 projects: true
-
-# if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
 
-# do you want to show the "read time" of the posts?
+# Show the "read time" of the posts
 read-time: true
 
-# do you want to show the "tags" inside the posts?
+# Show the "tags" inside the posts
 show-tags: true
 
-# related posts inside a post?
+# Show related posts inside a post
 related: true
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
 
-# show author block at the end of a post ?
+# Show author block at the end of a post
 show-author: true
 
-# do you want some animations?
+# Enable animations
 animation: true
 
 plugins:

@@ -1,5 +1,5 @@
-<div class="social-block">
-    <div class="social-links social-professional">
+<div class="social-links">
+
         {% if site.linkedin %}
             <a class="link" data-title="LinkedIn" href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank">
                 <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
@@ -42,18 +42,6 @@
             </a>
         {% endif %}
         
-        {% if site.email %}
-            <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-                <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
-            </a>
-        {% endif %}
-
-        <div class="social-description">
-            {{ site.data['messages']['msgProfessional'].[page.lang] }}
-        </div>
-    </div>
-        
-    <div class="social-links social-personal">
         {% if site.instagram %}
             <a class="link" data-title="Instagram" href="https://instagram.com/{{ site.instagram }}" target="_blank">
                 <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
@@ -126,8 +114,10 @@
             </a>
         {% endif %}
 
-        <div class="social-description">
-            {{ site.data['messages']['msgPersonal'].[page.lang] }}
-        </div>
-    </div>
+        {% if site.email %}
+            <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+                <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
+            </a>
+        {% endif %}
+
 </div>

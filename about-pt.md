@@ -10,3 +10,4 @@ permalink: sobre/
 ## Projetos
 
 * [wxMP3val]({{ site.baseurl }}/wxmp3val)
+* [wxMP3gain]({{ site.baseurl }}/wxmp3gain)

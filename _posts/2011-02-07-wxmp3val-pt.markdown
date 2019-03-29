@@ -1,5 +1,5 @@
 ---
-title: wxMP3Val
+title: wxMP3val
 layout: post
 date: 2011-02-07 23:10
 image: https://raw.githubusercontent.com/cfgnunes/wxmp3val/master/debian/menu/icon64x64.png
@@ -10,7 +10,7 @@ tag:
 star: false
 category: project
 author: cfgnunes
-description: A tool for checking MP3 files integrity.
+description: Uma ferramenta gratuita para verificar a integridade de arquivos MP3.
 externalLink: false
 projects: true
 hidden: true

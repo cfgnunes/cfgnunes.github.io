@@ -24,3 +24,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 ## Projects
 
 * [wxMP3val]({{ site.baseurl }}/wxmp3val)
+* [wxMP3gain]({{ site.baseurl }}/wxmp3gain)

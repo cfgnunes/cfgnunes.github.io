@@ -1,0 +1,40 @@
+---
+title: wxMP3gain
+layout: post
+date: 2012-02-05 23:10
+image: https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/debian/menu/icon64x64.png
+headerImage: true
+tag:
+- audio
+- application
+star: false
+category: project
+author: cfgnunes
+description: A free MP3 volume normalizer.
+externalLink: false
+projects: true
+hidden: true
+lang: pt
+ref: wxmp3gain
+---
+
+## Introdução
+
+![Screenshot](https://a.fsdn.com/con/app/proj/wxmp3gain/screenshots/main.png/max/max/1)
+
+## Funcionalidades
+
+## Informações
+
+* Última versão: 3.7 (22 Fev 2015) (Veja o [Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/CHANGELOG))
+* Licença: Open Source (Veja o arquivo de licença [License](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/COPYING))
+* Requisitos de sistema: Microsoft Windows XP/Vista/7/8/10 or GNU/Linux
+
+<div class="buttons">
+    <a class="download" href="https://sourceforge.net/projects/wxmp3gain/files/latest/download" target="_blank">
+        <svg class="icon icon-download"><use xlink:href="#icon-download"></use></svg><span class="icon-download">Download</span>
+    </a>
+    <a class="source" href="https://github.com/cfgnunes/wxmp3gain" target="_blank">
+        <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg><span class="icon-github">Código Fonte</span>
+    </a>
+</div>

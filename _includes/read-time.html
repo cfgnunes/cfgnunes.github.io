@@ -1,4 +1,4 @@
-<span class="reading-time" title="{{ site.data['messages']['msgEstimatedReadTime'] }}">
+<span class="reading-time" title="{{ site.data['messages']['msgEstimatedReadTime'].[page.lang] }}">
     {% assign words = content | number_of_words %}
 
     {% if words < 360 %}

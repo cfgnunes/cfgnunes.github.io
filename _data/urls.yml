@@ -1,0 +1,15 @@
+about:
+  en: "about"
+  pt: "sobre"
+home:
+  en: ""
+  pt: "inicio"
+projects:
+  en: "projects"
+  pt: "projetos"
+blog:
+  en: "blog"
+  pt: "blog/pt"
+tags:
+  en: "tags"
+  pt: "categorias"

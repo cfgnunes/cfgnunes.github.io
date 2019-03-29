@@ -2,8 +2,8 @@
 layout: page
 title: Projects
 ref: projects
-permalink: projects/
 lang: en
+permalink: projects/
 ---
 <section class="list">
     {% for post in site.posts %}

@@ -1,6 +1,8 @@
 # Main text of home
 name: Cristiano Nunes
-bio: Software developer and researcher
+bio:
+  en: Software Developer, Researcher
+  pt: Desenvolvedor de Software, Pesquisador
 
 # Twitter summary info
 description: A blog about technology and stuff related
@@ -57,10 +59,12 @@ youtube: cfgnunes
 authors:
     cfgnunes:
         name: Cristiano Nunes
-        bio: A warrior of the light.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: cfgnunes
+        bio:
+          en: A warrior of the light.
+          pt: Um guerreiro da luz.
 
 # Do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -74,7 +78,7 @@ width: large
 # Enable or disable the pages
 projects: true
 about: true
-blog: true
+blog: false
 
 # Show the "read time" of the posts
 read-time: true
@@ -100,7 +104,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
-  - jekyll-polyglot
 
 jekyll-mentions:
     base_url: https://github.com
@@ -115,5 +118,3 @@ exclude: ["README.md", "Rakefile", "Gemfile", "Gemfile.lock"]
 
 languages: ["en", "pt"]
 default_lang: "en"
-exclude_from_localization: ["assets", "CNAME"]
-parallel_localization: false

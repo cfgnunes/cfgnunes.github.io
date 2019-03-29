@@ -2,10 +2,10 @@
 layout: page
 title: Sobre
 ref: about
-permalink: about/
 lang: pt
+permalink: sobre/
 ---
-[![Profile Image]({{ site.url }}/{{ site.picture }})]({{ site.baseurl }}/)
+[![Profile Image]({{ site.url }}/{{ site.picture }})]({{ site.baseurl }}/inicio)
 
 ## Projetos
 

@@ -2,8 +2,8 @@
 layout: page
 title: About
 ref: about
-permalink: about/
 lang: en
+permalink: about/
 ---
 [![Profile Image]({{ site.url }}/{{ site.picture }})]({{ site.baseurl }}/)
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Tags
+title: Categorias
 ref: tags
 lang: pt
 permalink: categorias/
 ---
 <section class="list">
-    <h1 class="title">Tags</h1>
+    <h1 class="title">Categorias</h1>
 
     {% assign tags_list = site.tags %}
 

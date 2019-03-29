@@ -16,7 +16,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 curriculum: true
 curriculum-external: true
-curriculum-url: http://lattes.cnpq.br/3985172295525735
+curriculum-url: https://github.com/cfgnunes/latex-curriculum/raw/master/curriculum_pt.pdf
 
 url: https://cfgnunes.com
 

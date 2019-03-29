@@ -115,6 +115,3 @@ compress_html:
         - stage
 
 exclude: ["README.md", "Rakefile", "Gemfile", "Gemfile.lock"]
-
-languages: ["en", "pt"]
-default_lang: "en"

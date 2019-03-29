@@ -18,7 +18,7 @@ lang: pt
 ref: wxmp3val
 ---
 
-## Intoduction
+## Introdução
 
 O wxMP3val é um front-end gratuito para o MP3val. Dedicado a arquivos MP3, o wxMP3val permite que você escaneie sua coleção de músicas em busca de arquivos corrompidos, downloads incompletos e tags ausentes, na tentativa de corrigi-los.
 

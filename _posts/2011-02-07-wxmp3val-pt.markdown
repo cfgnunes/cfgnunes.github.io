@@ -1,0 +1,45 @@
+---
+title: wxMP3Val
+layout: post
+date: 2011-02-07 23:10
+image: https://raw.githubusercontent.com/cfgnunes/wxmp3val/master/debian/menu/icon64x64.png
+headerImage: true
+tag:
+- audio
+- application
+star: false
+category: project
+author: cfgnunes
+description: A tool for checking MP3 files integrity.
+externalLink: false
+projects: true
+hidden: true
+lang: pt
+ref: wxmp3val
+---
+
+## Intoduction
+
+O wxMP3val é um front-end gratuito para o MP3val. Dedicado a arquivos MP3, o wxMP3val permite que você escaneie sua coleção de músicas em busca de arquivos corrompidos, downloads incompletos e tags ausentes, na tentativa de corrigi-los.
+
+![Screenshot](https://a.fsdn.com/con/app/proj/wxmp3val/screenshots/Main.png/max/max/1)
+
+## Funcionalidades
+
+* Suporta verificação e reparação de arquivos em lote (MP3);
+* Uma vez verificado, ele mostra detalhes como a versão da camada de áudio, a versão da meta tag, se o arquivo foi codificado usando CBR (taxa de bits constante) e a condição.
+
+## Informações
+
+* Última versão: 3.7 (22 Fev 2015) (Veja o [Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3val/master/docs/CHANGELOG))
+* Licença: Open Source (Veja o arquivo de licença [License](https://raw.githubusercontent.com/cfgnunes/wxmp3val/master/docs/COPYING))
+* Requisitos de sistema: Microsoft Windows XP/Vista/7/8/10 or GNU/Linux
+
+<div class="buttons">
+    <a class="download" href="https://sourceforge.net/projects/wxmp3val/files/latest/download" target="_blank">
+        <svg class="icon icon-download"><use xlink:href="#icon-download"></use></svg><span class="icon-download">Download</span>
+    </a>
+    <a class="source" href="https://github.com/cfgnunes/wxmp3val" target="_blank">
+        <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg><span class="icon-github">Código Fonte</span>
+    </a>
+</div>

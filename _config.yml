@@ -115,5 +115,5 @@ exclude: ["README.md", "Rakefile", "Gemfile", "Gemfile.lock"]
 
 languages: ["en", "pt"]
 default_lang: "en"
-exclude_from_localization: ["assets"]
-parallel_localization: true
+exclude_from_localization: ["assets", "CNAME"]
+parallel_localization: false

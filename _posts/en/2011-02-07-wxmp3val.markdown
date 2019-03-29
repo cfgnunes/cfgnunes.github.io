@@ -14,9 +14,10 @@ description: A tool for checking MP3 files integrity.
 externalLink: false
 projects: true
 hidden: true
+lang: en
 ---
 
-## Intoduction
+## Introduction
 
 wxMP3val is a free front-end for the MP3val. Dedicated to MP3 files, wxMP3val lets you scan your music collection for corrupt files, incomplete downloads, and missing tags in an attempt to fix them.
 

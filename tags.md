@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Tags
+ref: tags
 ---
 <section class="list">
-    <h1 class="title">Tags</h1>
+    <h1 class="title">{{ site.data['messages']['msgTags'] }}</h1>
 
     {% assign tags_list = site.tags %}
 

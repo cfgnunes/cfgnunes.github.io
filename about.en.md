@@ -1,6 +1,9 @@
 ---
 layout: page
 title: About
+ref: about
+permalink: about/
+lang: en
 ---
 [![Profile Image]({{ site.url }}/{{ site.picture }})]({{ site.baseurl }}/)
 
@@ -17,7 +20,6 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
 
 ## Projects
 

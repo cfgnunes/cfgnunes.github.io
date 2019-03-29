@@ -10,11 +10,11 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-# If you want to include your resume, set to true
+# If you want to include your curriculum, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: http://lattes.cnpq.br/3985172295525735
+curriculum: true
+curriculum-external: true
+curriculum-url: http://lattes.cnpq.br/3985172295525735
 
 url: https://cfgnunes.com
 
@@ -74,7 +74,7 @@ width: large
 # Enable or disable the pages
 projects: true
 about: true
-blog: false
+blog: true
 
 # Show the "read time" of the posts
 read-time: true
@@ -100,6 +100,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-polyglot
 
 jekyll-mentions:
     base_url: https://github.com
@@ -111,3 +112,8 @@ compress_html:
         - stage
 
 exclude: ["README.md", "Rakefile", "Gemfile", "Gemfile.lock"]
+
+languages: ["en", "pt"]
+default_lang: "en"
+exclude_from_localization: ["assets", "CNAME"]
+parallel_localization: true

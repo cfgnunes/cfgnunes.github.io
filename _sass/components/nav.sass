@@ -1,5 +1,7 @@
 .nav,
-.nav-home
+.nav-home,
+.nav-language,
+.nav-language-home
     > .list
         list-style: none
         margin: 0
@@ -44,3 +46,34 @@
 
             &:hover
                 color: $alpha
+
+.nav-language,
+.nav-language-home,
+    > .list > .item > .link
+            transition: all .4s ease-in-out
+
+            &:hover
+                color: $alpha
+
+.nav-language
+    position: absolute
+    left: 0
+    top: 0
+
+    > .list
+        padding: 0 13px 0
+
+        > .item > .link
+            font-size: 1.4rem
+            padding: 20px 5px
+
+.nav-language-home
+    margin-top: 10px
+    text-align: center
+
+    > .list
+        padding: 0 13px 0
+
+        > .item > .link
+            font-size: 1.6rem
+            padding: 5px 5px

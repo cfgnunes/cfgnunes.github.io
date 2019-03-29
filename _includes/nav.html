@@ -1,39 +1,49 @@
-<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+<nav class="{% if page.ref == 'home' %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
-        {% if page.title != "Home" %}
+        {% if page.ref != "home" %}
             <li class="item">
-                <a class="link" href="{{ site.url }}/">Home</a>
+                <a class="link" href="{{ site.url }}/">{{ site.data['messages']['msgHome'] }}</a>
             </li>
         {% endif %}
 
-        {% if site.about == true %}
-            {% if page.title != "About" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/about">About</a>
-                </li>
-            {% endif %}
-        {% endif %}
-
         {% if site.blog == true %}
-            {% if page.title != "Blog" %}
+            {% if page.ref != "blog" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/blog">Blog</a>
+                    <a class="link" href="{{ site.url }}/blog">{{ site.data['messages']['msgBlog'] }}</a>
                 </li>
             {% endif %}
         {% endif %}
 
         {% if site.projects == true %}
-            {% if page.title != "Projects" %}
+            {% if page.ref != "projects" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Projects</a>
+                    <a class="link" href="{{ site.url }}/projects">{{ site.data['messages']['msgProjects'] }}</a>
                 </li>
             {% endif %}
         {% endif %}
 
-        {% if site.resume == true %}
+        {% if site.about == true %}
+            {% if page.ref != "about" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/about">{{ site.data['messages']['msgAbout'] }}</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.curriculum == true %}
             <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Lattes</a>
+                <a class="link" href="{% if site.curriculum-external %}{{ site.curriculum-url }}{% else %}{{ site.url }}/{{ site.curriculum-url }}{% endif %}">{{ site.data['messages']['msgCurriculum'] }}</a>
             </li>
         {% endif %}
+    </ul>
+</nav>
+
+<nav class="{% if page.ref == 'home'  %}nav-language-home{% else %}nav-language{% endif %}">
+    <ul class="list">
+        {% for tongue in site.languages %}
+        <li class="item">
+            <a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}" class="link">{{ tongue }}</a>
+        </li>
+        {% endfor %}
     </ul>
 </nav>

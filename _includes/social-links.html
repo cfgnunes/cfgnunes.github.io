@@ -14,7 +14,8 @@
         {% if username %}
             {% assign icon-name = link.icon | default: link.name %}
             {% assign site-url = link.url-pattern | replace: '__USERNAME__', username %}
-            <a target="_blank" class="link" data-title="{{ site-url }}" href="{{ link.url-scheme | default: '//' }}{{ site-url }}">
+            {% assign link-title = link.title | default: site-url %}
+            <a target="_blank" class="link" data-title="{{ link-title }}" href="{{ link.url-scheme | default: '//' }}{{ site-url }}">
                 <svg class="icon icon-{{ icon-name }}"><use xlink:href="#icon-{{ icon-name }}"></use></svg>
             </a>
         {% endif %}

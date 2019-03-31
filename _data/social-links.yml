@@ -1,51 +1,62 @@
 # Yaml manifest of supported social links
 # Requirements:
-# name
+# `name`
 #     - plain-text name of the site (e.g. twitter)
 #     - **mandatory**
-# url-pattern
+# `url-pattern`
 #     - site URL pattern containing a placeholder string (e.g. twitter.com/__USERNAME__)
 #     - placeholder will be replaced by username or value specified in _config.yml (e.g. twitter.com/mytwitter)
 #     - **mandatory** (for non-email type links)
-# url-scheme
+# `url-scheme`
 #     - the hardcoded URI/URN url_scheme (e.g. https://)
 #     - can be one of: ['https://', 'http://', 'mailto:']
 #     - defaults to '//'
 #     - **optional**
-# icon
+# `icon`
 #     - name of svg asset used in icons.html (e.g. icon-facebook)
-#     - defaults to value in name attribute
+#     - defaults to value in `name` attribute
+#     - **optional**
+# `title`
+#     - title of link (e.g. Facebook)
+#     - defaults to value in `url-pattern` attribute
 #     - **optional**
 #
 - name: facebook
   url-pattern: facebook.com/__USERNAME__
+  title: Facebook
 
 - name: twitter
   url-pattern: twitter.com/__USERNAME__
+  title: Twitter
 
 - name: google
   url-pattern: plus.google.com/+__USERNAME__
 
 - name: instagram
   url-pattern: instagram.com/__USERNAME__
+  title: Instagram
 
 - name: pinterest
   url-pattern: pinterest.com/__USERNAME__
 
 - name: linkedin
   url-pattern: linkedin.com/in/__USERNAME__
+  title: LinkedIn
 
 - name: youtube
   url-pattern: youtube.com/__USERNAME__
+  title: YouTube
 
 - name: spotify
   url-pattern: open.spotify.com/user/__USERNAME__
+  title: Spotify
 
 - name: lastfm
   url-pattern: last.fm/user/__USERNAME__
 
 - name: github
   url-pattern: github.com/__USERNAME__
+  title: GitHub
 
 - name: gitlab
   url-pattern: gitlab.com/__USERNAME__
@@ -73,9 +84,11 @@
 
 - name: scholar
   url-pattern: scholar.google.com/citations?user=__USERNAME__
+  title: Google Scholar
 
 - name: researchgate
   url-pattern: www.researchgate.net/profile/__USERNAME__
+  title: ResearchGate
 
 - name: mendeley
   url-pattern: mendeley.com/profiles/__USERNAME__
@@ -105,7 +118,9 @@
 
 - name: skoob
   url-pattern: 'www.skoob.com.br/usuario/__USERNAME__'
+  title: Skoob
 
 - name: lattes
   url-pattern: 'lattes.cnpq.br/__USERNAME__'
   url-scheme: 'http://'
+  title: Lattes

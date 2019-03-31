@@ -43,14 +43,14 @@
         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
         {% for p in posts %}
             <li class="item">
-                <a {% if p.lang == page.lang %}style="font-weight: bold;"{% endif %} href="{{ p.url }}" class="link">{{ p.lang }}</a>
+                <a href="{{ p.url }}" class="link{% if p.lang == page.lang %} link-bold{% endif %}">{{ p.lang }}</a>
             </li>
         {% endfor %}
 
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
         {% for p in pages %}
             <li class="item">
-                <a {% if p.lang == page.lang %}style="font-weight: bold;"{% endif %} href="{{ p.url }}" class="link">{{ p.lang }}</a>
+                <a href="{{ p.url }}" class="link{% if p.lang == page.lang %} link-bold{% endif %}">{{ p.lang }}</a>
             </li>
         {% endfor %}
     </ul>

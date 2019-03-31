@@ -2,7 +2,7 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{page.lang}}">
 <head>
 
     {% if site.analytics-google %}
@@ -11,8 +11,6 @@ layout: compress
 
     <meta charset="utf-8">
     <meta name=viewport content="width=device-width, initial-scale=1">
-
-    <meta name=description content="{{ site.bio.en }}">
     <meta name=author content="{{ site.name }}">
     <meta property="og:image" content="{{ site.url }}/{{ site.picture }}">
     <meta property="og:type" content="profile">

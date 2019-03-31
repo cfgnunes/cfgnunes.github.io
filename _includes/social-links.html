@@ -1,99 +1,22 @@
 <div class="social-links">
+    {% assign links = null | compact %}
+    {% if site.social-links-order %}
+        {% for link in site.social-links-order %}
+            {% assign link-elem = include.links | where: "name", link %}
+            {% assign links = links | concat: link-elem %}
+        {% endfor %}
+    {% else %}
+        {% assign links = include.links %}
+    {% endif %}
 
-        {% if site.linkedin %}
-            <a class="link" data-title="LinkedIn" href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank">
-                <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
-            </a>
+    {% for link in links %}
+        {% assign username = site[link.name] %}
+        {% if username %}
+        {% assign icon-name = link.icon | default: link.name %}
+        {% assign site-url = link.url-pattern | replace: '__USERNAME__', username %}
+        <a target="_blank" class="link" data-title="{{ site-url }}" href="{{ link.url-scheme | default: '//' }}{{ site-url }}">
+            <svg class="icon icon-{{ icon-name }}"><use xlink:href="#icon-{{ icon-name }}"></use></svg>
+        </a>
         {% endif %}
-
-        {% if site.lattes %}
-            <a class="link" data-title="Lattes" href="http://lattes.cnpq.br/{{ site.lattes }}" target="_blank">
-                <svg class="icon icon-lattes"><use xlink:href="#icon-lattes"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.github %}
-            <a class="link" data-title="GitHub" href="https://github.com/{{ site.github }}" target="_blank">
-                <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.researchgate %}
-            <a class="link" data-title="ResearchGate" href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
-                <svg class="icon icon-researchgate"><use xlink:href="#icon-researchgate"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.scholar %}
-            <a class="link" data-title="Google Scholar" href="https://scholar.google.com.br/citations?user={{ site.scholar }}" target="_blank">
-                <svg class="icon icon-scholar"><use xlink:href="#icon-scholar"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.gitlab %}
-            <a class="link" data-title="GitLab" href="https://gitlab.com/{{ site.gitlab }}" target="_blank">
-                <svg class="icon icon-gitlab"><use xlink:href="#icon-gitlab"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.stackoverflow %}
-            <a class="link" data-title="Stack Overflow" href="https://stackoverflow.com/users/{{ site.stackoverflow }}" target="_blank">
-                <svg class="icon icon-stackoverflow"><use xlink:href="#icon-stackoverflow"></use></svg>
-            </a>
-        {% endif %}
-        
-        {% if site.instagram %}
-            <a class="link" data-title="Instagram" href="https://instagram.com/{{ site.instagram }}" target="_blank">
-                <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.twitter %}
-            <a class="link" data-title="Twitter" href="https://twitter.com/{{ site.twitter }}" target="_blank">
-                <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.facebook %}
-            <a class="link" data-title="Facebook" href="https://facebook.com/{{ site.facebook }}" target="_blank">
-                <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.youtube %}
-            <a class="link" data-title="Youtube" href="https://youtube.com/{{ site.youtube }}" target="_blank">
-                <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.spotify %}
-            <a class="link" data-title="Spotify" href="https://open.spotify.com/user/{{ site.spotify }}" target="_blank">
-                <svg class="icon icon-spotify"><use xlink:href="#icon-spotify"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.skoob %}
-            <a class="link" data-title="Skoob" href="https://www.skoob.com.br/usuario/{{ site.skoob }}" target="_blank">
-                <svg class="icon icon-skoob"><use xlink:href="#icon-skoob"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.quora %}
-            <a class="link" data-title="Quora" href="https://www.quora.com/profile/{{ site.quora }}" target="_blank">
-                <svg class="icon icon-quora"><use xlink:href="#icon-quora"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.medium %}
-            <a class="link" data-title="Medium" href="https://medium.com/@{{ site.medium }}" target="_blank">
-                <svg class="icon icon-medium"><use xlink:href="#icon-medium"></use></svg>
-            </a>
-        {% endif %}
-
-        {% if site.email %}
-            <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-                <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
-            </a>
-        {% endif %}
-
+    {% endfor %}
 </div>

@@ -20,7 +20,7 @@
         <h2 class="description">{{ site.bio.[page.lang] }}</h2>
 
         {% if page.ref == "home" %}
-            {% include social-links.html %}
+            {% include social-links.html links=site.data.social-links %}
         {% endif %}
     </header>
 {% endif %}

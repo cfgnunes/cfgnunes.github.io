@@ -53,6 +53,7 @@ youtube: cfgnunes
 # medium: medium
 # quora: userquora
 # stackoverflow: 3112437/cristiano-nunes
+social-links-order: [linkedin, lattes, github, researchgate, scholar, gitlab, stackoverflow, instagram, twitter, facebook, youtube, spotify, skoob, quora, medium, email]
 
 authors:
     cfgnunes:

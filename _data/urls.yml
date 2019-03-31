@@ -1,15 +1,15 @@
 about:
-  en: "about"
-  pt: "sobre"
+  en: about
+  pt: sobre
 home:
-  en: ""
-  pt: "inicio"
+  en: 
+  pt: inicio
 projects:
-  en: "projects"
-  pt: "projetos"
+  en: projects
+  pt: projetos
 blog:
-  en: "blog"
-  pt: "blog/pt"
+  en: blog
+  pt: blog/pt
 tags:
-  en: "tags"
-  pt: "categorias"
+  en: tags
+  pt: categorias

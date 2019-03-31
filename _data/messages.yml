@@ -1,27 +1,33 @@
 msgAbout:
-  en: "About"
-  pt: "Sobre"
+  en: About
+  pt: Sobre
 msgBlog:
-  en: "Blog"
-  pt: "Blog"
+  en: Blog
+  pt: Blog
 msgCurriculum:
-  en: "Curriculum"
-  pt: "Currículo"
+  en: Curriculum
+  pt: Currículo
 msgEstimatedReadTime:
-  en: "Estimated read time"
-  pt: "Tempo estimado para leitura"
+  en: Estimated read time
+  pt: Tempo estimado para leitura
 msgHome:
-  en: "Home"
-  pt: "Início"
+  en: Home
+  pt: Início
 msgProjects:
-  en: "Projects"
-  pt: "Projetos"
+  en: Projects
+  pt: Projetos
 msgRelatedPosts:
-  en: "Related posts"
-  pt: "Posts relacionados"
+  en: Related posts
+  pt: Posts relacionados
 msgShare:
-  en: "Share"
-  pt: "Compartilhar"
+  en: Share
+  pt: Compartilhar
 msgTweet:
-  en: "Tweet"
-  pt: "Tweet"
+  en: Tweet
+  pt: Tweet
+msgSeeThe:
+  en: See the
+  pt: Veja o
+msgSourceCode:
+  en: Source Code
+  pt: Código fonte

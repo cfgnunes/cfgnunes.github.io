@@ -5,7 +5,7 @@ ref: about
 lang: en
 permalink: about/
 ---
-[![Profile Image]({{ site.url }}/{{ site.picture }})]({{ site.baseurl }}/)
+[![Profile Image]({{ site.url }}/assets/images/profile-about.jpg)]({{ site.baseurl }}/)
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

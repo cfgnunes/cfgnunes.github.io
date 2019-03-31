@@ -5,7 +5,7 @@ ref: about
 lang: pt
 permalink: sobre/
 ---
-[![Profile Image]({{ site.url }}/{{ site.picture }})]({{ site.baseurl }}/inicio)
+[![Profile Image]({{ site.url }}/assets/images/profile-about.jpg)]({{ site.baseurl }}/)
 
 ## Projetos
 

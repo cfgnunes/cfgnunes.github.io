@@ -26,8 +26,8 @@ ref: wxmp3gain
 
 ## Informations
 
-* Latest version: 3.7 (22 Feb 2015) (See the [Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/CHANGELOG))
-* License: Open Source (See the [License](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/COPYING))
+* Latest version: 4.0 ([Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/CHANGELOG))
+* License: Open Source ([License](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/COPYING))
 * System requirements: Microsoft Windows XP/Vista/7/8/10 or GNU/Linux
 
 <div class="buttons">

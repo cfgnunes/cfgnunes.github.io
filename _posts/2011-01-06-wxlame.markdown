@@ -26,8 +26,8 @@ ref: wxlame
 
 ## Informations
 
-* Latest version: 3.5 (19 Feb 2015) (See the [Changelog](https://raw.githubusercontent.com/cfgnunes/wxlame/master/docs/CHANGELOG))
-* License: Open Source (See the [License](https://raw.githubusercontent.com/cfgnunes/wxlame/master/docs/COPYING))
+* Latest version: 3.5.1 ([Changelog](https://raw.githubusercontent.com/cfgnunes/wxlame/master/docs/CHANGELOG))
+* License: Open Source ([License](https://raw.githubusercontent.com/cfgnunes/wxlame/master/docs/COPYING))
 * System requirements: Microsoft Windows XP/Vista/7/8/10 or GNU/Linux
 
 <div class="buttons">

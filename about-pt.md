@@ -34,5 +34,5 @@ Provavelmente, você deve estar se perguntando porque o endereço de meu website
 
 ## Currículos
 
-* [Profissional](https://drive.google.com/open?id=1e9_0V4FOr3zBYHw84qIRpa40mB13hrQI)
+* [Profissional]({% if site.curriculum-external %}{{ site.curriculum-url.[page.lang] }}{% else %}{{ site.url }}/{{ site.curriculum-url.[page.lang] }}{% endif %})
 * [Plataforma Lattes](http://lattes.cnpq.br/3985172295525735)

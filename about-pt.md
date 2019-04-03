@@ -33,10 +33,6 @@ Estou presente em várias redes sociais, como:
 [Google Acadêmico](https://scholar.google.com/citations?user=nrrROToAAAAJ).
 Mas se você quiser apenas me enviar um e-mail, fique a vontade e use o endereço <cfgnunes@gmail.com>.
 
-## Por que cfgnunes?
-
-Provavelmente, você deve estar se perguntando porque o endereço de meu website e meu nome de usuário em várias redes sociais é **cfgnunes**. Simples! Esta palavra representa as iniciais do meu nome: **C**ristiano **F**raga **G**. **Nunes**. ;D
-
 ## Projetos
 
 * [wxLame]({{ site.baseurl }}/wxlame-pt)

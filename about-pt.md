@@ -11,5 +11,6 @@ Cristiano Nunes é doutorando e mestre em Modelagem Matemática e Computacional 
 
 ## Projetos
 
-* [wxMP3val]({{ site.baseurl }}/wxmp3val)
-* [wxMP3gain]({{ site.baseurl }}/wxmp3gain)
+* [wxLame]({{ site.baseurl }}/wxlame-pt)
+* [wxMP3gain]({{ site.baseurl }}/wxmp3gain-pt)
+* [wxMP3val]({{ site.baseurl }}/wxmp3val-pt)

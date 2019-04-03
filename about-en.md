@@ -19,5 +19,5 @@ He is passionate about technology, music, and literature. He likes teaching, dis
 
 ## Resumes
 
-* [Professional]({% if site.curriculum-external %}{{ site.curriculum-url.[page.lang] }}{% else %}{{ site.url }}/{{ site.curriculum-url.[page.lang] }}{% endif %})
-* [Lattes Platform](http://lattes.cnpq.br/3985172295525735)
+* [Professional]({% if site.curriculum-external %}{{ site.curriculum-url.en }}{% else %}{{ site.url }}/{{ site.curriculum-url.en }}{% endif %})
+* [Lattes Platform]({% if site.curriculum-external %}{{ site.curriculum-url.en }}{% else %}{{ site.url }}/{{ site.curriculum-url.en }}{% endif %})

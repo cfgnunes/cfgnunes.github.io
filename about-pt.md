@@ -20,8 +20,7 @@ Durante o período de sua graduação, atuou como monitor da disciplina de compu
 <div class="breaker"></div>
 
 Se quiser receber novidades sobre meu blog utilize [este feed RSS](https://cfgnunes.com/feed.xml).
-Estou presente em várias redes sociais:
-[Instagram](https://instagram.com/cfgnunes), [Facebook](https://facebook.com/cristiano.cfgnunes), [YouTube](https://youtube.com/cfgnunes), [Twitter](https://twitter.com/cfgnunes), [Skoob](https://www.skoob.com.br/usuario/3647026), [Spotify](https://open.spotify.com/user/cfgnunes), [LinkedIn](https://linkedin.com/in/cfgnunes), [GitHub](https://github.com/cfgnunes), [ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3), [Google Acadêmico](https://scholar.google.com/citations?user=nrrROToAAAAJ). Mas se você quiser apenas me enviar um e-mail, fique a vontade e use o endereço <cfgnunes@gmail.com>.
+Estou presente em várias redes sociais, como: [Instagram](https://instagram.com/cfgnunes), [Facebook](https://facebook.com/cristiano.cfgnunes), [YouTube](https://youtube.com/cfgnunes), [Twitter](https://twitter.com/cfgnunes), [Skoob](https://www.skoob.com.br/usuario/3647026), [Spotify](https://open.spotify.com/user/cfgnunes), [LinkedIn](https://linkedin.com/in/cfgnunes), [GitHub](https://github.com/cfgnunes), [ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3) e [Google Acadêmico](https://scholar.google.com/citations?user=nrrROToAAAAJ). Mas se você quiser apenas me enviar um e-mail, fique a vontade e use o endereço <cfgnunes@gmail.com>.
 
 ## Por que cfgnunes?
 

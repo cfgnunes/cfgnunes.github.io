@@ -19,7 +19,7 @@ Durante o período de sua graduação, atuou como monitor da disciplina de Compu
 
 <div class="breaker"></div>
 
-Se quiser receber novidades sobre meu blog utilize [este feed RSS](https://cfgnunes.com/feed.xml).
+Se quiser receber novidades sobre meu website utilize [este feed RSS](https://cfgnunes.com/feed.xml).
 Estou presente em várias redes sociais, como:
 [Instagram](https://instagram.com/cfgnunes),
 [Facebook](https://facebook.com/cristiano.cfgnunes),

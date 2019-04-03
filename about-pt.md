@@ -34,3 +34,8 @@ Provavelmente, você deve estar se perguntando porque o endereço de meu website
 * [wxLame]({{ site.baseurl }}/wxlame-pt)
 * [wxMP3gain]({{ site.baseurl }}/wxmp3gain-pt)
 * [wxMP3val]({{ site.baseurl }}/wxmp3val-pt)
+
+## Currículos
+
+[Profissional](https://drive.google.com/open?id=1e9_0V4FOr3zBYHw84qIRpa40mB13hrQI)
+[Currículo Lattes](http://lattes.cnpq.br/3985172295525735)

@@ -9,6 +9,10 @@ permalink: sobre/
 
 Cristiano Nunes é doutorando e mestre em Modelagem Matemática e Computacional pelo Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG). Atualmente, é Analista de Sistemas na Secretaria de Governança da Informação (SGI) do CEFET-MG. Possui especialização em Gerenciamento de Projetos pela Universidade Cândido Mendes. Possui formação em Engenharia de Computação e Técnico em Eletrônica, ambos pelo CEFET-MG. Tem interesse nas seguintes áreas: Visão Computacional, Processamento e Análise de Imagens e Aprendizado de Máquina.
 
+## Biografia Estendida
+
+Em breve...
+
 ## Projetos
 
 * [wxLame]({{ site.baseurl }}/wxlame-pt)

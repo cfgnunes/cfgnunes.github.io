@@ -14,7 +14,7 @@ Cristiano Nunes é doutorando e mestre em Modelagem Matemática e Computacional 
 ## Biografia Estendida
 
 Cristiano Fraga Guimarães Nunes, é brasileiro, natural de Araxá, nascido em 23 de outubro de 1987. É bacharel em Engenharia de Computação, mestre e doutorando em Modelagem Matemática e Computacional pelo CEFET-MG. 
-Em sua trajetória, fez curso nível técnico em Eletricidade Industrial no SENAI e curso nível técnico em Eletrônica no CEFET-MG. Também possui especialização em Gestão de projetos, pela Universidade Cândido Mendes.
+Em sua trajetória, fez curso nível técnico de Elétrica no SENAI e curso nível técnico em Eletrônica no CEFET-MG. Também possui especialização em Gestão de projetos, pela Universidade Cândido Mendes.
 Durante o período de sua graduação, atuou como monitor da disciplina de computação gráfica, fez iniciações científicas na área de Processamento e Análise de Imagens e foi Membro do Colegiado do curso de Engenharia da Computação.
 
 <div class="breaker"></div>
@@ -23,7 +23,7 @@ Se quiser receber novidades sobre meu blog utilize [este feed RSS](https://cfgnu
 Estou presente em várias redes sociais:
 [Instagram](https://instagram.com/cfgnunes), [Facebook](https://facebook.com/cristiano.cfgnunes), [YouTube](https://youtube.com/cfgnunes), [Twitter](https://twitter.com/cfgnunes), [Skoob](https://www.skoob.com.br/usuario/3647026), [Spotify](https://open.spotify.com/user/cfgnunes), [LinkedIn](https://linkedin.com/in/cfgnunes), [GitHub](https://github.com/cfgnunes), [ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3), [Google Acadêmico](https://scholar.google.com/citations?user=nrrROToAAAAJ).
 
-Mas se você quiser apenas me enviar um e-mail, fique a vontade e use o endereço **cfgnunes@gmail.com**. 😉
+Mas se você quiser apenas me enviar um e-mail, fique a vontade e use o endereço <cfgnunes@gmail.com>.
 
 ## Por que cfgnunes?
 

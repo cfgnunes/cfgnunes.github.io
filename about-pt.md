@@ -37,5 +37,5 @@ Provavelmente, você deve estar se perguntando porque o endereço de meu website
 
 ## Currículos
 
-[Profissional](https://drive.google.com/open?id=1e9_0V4FOr3zBYHw84qIRpa40mB13hrQI)
-[Currículo Lattes](http://lattes.cnpq.br/3985172295525735)
+* [Profissional](https://drive.google.com/open?id=1e9_0V4FOr3zBYHw84qIRpa40mB13hrQI)
+* [Currículo Lattes](http://lattes.cnpq.br/3985172295525735)

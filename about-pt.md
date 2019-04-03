@@ -27,8 +27,7 @@ Mas se você quiser apenas me enviar um e-mail, fique a vontade e use o endereç
 
 ## Por que cfgnunes?
 
-Provavelmente, você deve estar se perguntando porque meu website e meu id em várias redes sociais é **cfgnunes**.
-Simples: esta palavra representa as iniciais do meu nome: **C**ristiano **F**raga **G**. **Nunes**. 😉
+Provavelmente, você deve estar se perguntando porque o endereço de meu website e meu nome de usuário em várias redes sociais é **cfgnunes**. Simples! Esta palavra representa as iniciais do meu nome: **C**ristiano **F**raga **G**. **Nunes**. ;D
 
 ## Projetos
 

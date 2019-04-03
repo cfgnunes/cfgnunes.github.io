@@ -11,10 +11,6 @@ Cristiano Nunes is a doctoral student and master in Mathematical and Computation
 
 He is passionate about technology, music, and literature. He likes teaching, discussing and presenting his ideas about the things he believes in. In last years, he has been struggling to teach everything he knows about technology.
 
-## Full bio
-
-Coming soon...
-
 ## Projects
 
 * [wxLame]({{ site.baseurl }}/wxlame)

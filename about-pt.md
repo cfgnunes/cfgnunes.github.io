@@ -11,15 +11,9 @@ Cristiano Nunes é doutorando e mestre em Modelagem Matemática e Computacional 
 
 Apaixonado por literatura, música e tecnologia, nas horas vagas você o encontra lendo livros, tocando e aprendendo piano e dedicando parte do seu tempo a projetos de software livre. Também adora ensinar e compartilhar algumas das suas experiências aqui neste blog.
 
-## Biografia Estendida
-
-Cristiano Fraga Guimarães Nunes, é brasileiro, natural de Araxá, nascido em 23 de outubro de 1987. É bacharel em Engenharia de Computação, mestre e doutorando em Modelagem Matemática e Computacional pelo CEFET-MG.
-Em sua trajetória, fez curso nível técnico de Elétrica no SENAI e curso nível técnico em Eletrônica no CEFET-MG. Também possui especialização em Gestão de projetos, pela Universidade Cândido Mendes.
-Durante o período de sua graduação, atuou como monitor da disciplina de Computação Gráfica, fez iniciações científicas na área de Processamento e Análise de Imagens e foi Membro do Colegiado do curso de Engenharia da Computação.
-
 <div class="breaker"></div>
 
-Se quiser receber novidades sobre meu website utilize [este feed RSS](https://cfgnunes.com/feed.xml).
+Se quiser receber novidades sobre este website utilize o [feed RSS](https://cfgnunes.com/feed.xml).
 Estou presente em várias redes sociais, como:
 [Instagram](https://instagram.com/cfgnunes),
 [Facebook](https://facebook.com/cristiano.cfgnunes),

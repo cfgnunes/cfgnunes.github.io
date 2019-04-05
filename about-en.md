@@ -24,7 +24,7 @@ Present in several social networks, such as
 [GitHub](https://github.com/cfgnunes),
 [ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3) and
 [Google Scholar](https://scholar.google.com/citations?user=nrrROToAAAAJ).
-If you want email me, feel free to use the address <cfgnunes@gmail.com>.
+If you want to email me, feel free to use the address <cfgnunes@gmail.com>.
 
 ## Resumes
 

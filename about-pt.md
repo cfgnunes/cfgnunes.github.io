@@ -7,9 +7,9 @@ permalink: sobre/
 ---
 [![Profile Image]({{ site.url }}/assets/images/profile-about.jpg)]({{ site.baseurl }}/)
 
-Cristiano Nunes é doutorando e mestre em Modelagem Matemática e Computacional pelo Centro Federal de Educação Tecnológica de Minas Gerais ([CEFET-MG](https://www.cefetmg.br)). Trabalha como Desenvolvedor de Software na Secretaria de Governança da Informação (SGI) do CEFET-MG. Possui especialização em Gerenciamento de Projetos pela Universidade Cândido Mendes e também é formado em Engenharia de Computação e Técnico em Eletrônica, ambos pelo CEFET-MG. Tem interesse nas seguintes áreas: Visão Computacional, Processamento e Análise de Imagens e Aprendizado de Máquina.
+Cristiano Nunes é doutorando e mestre em Modelagem Matemática e Computacional pelo Centro Federal de Educação Tecnológica de Minas Gerais ([CEFET-MG](https://www.cefetmg.br)). Atua com desenvolvimento de software na Secretaria de Governança da Informação do CEFET-MG. Possui formação em Engenharia de Computação e Técnico em Eletrônica. Tem interesse nas seguintes áreas de pesquisa: Processamento e Análise de Imagens, Visão Computacional e Aprendizado de Máquina.
 
-É apaixonado por tecnologia, música e literatura. Adora ensinar, discutir e apresentar suas ideias sobre as coisas que acredita. Nos últimos anos, tem se esforçado para ensinar tudo o que sabe sobre tecnologia.
+Apaixonado por literatura, música e tecnologia, nas horas vagas você o encontra lendo livros, tocando e aprendendo piano e dedicando parte do seu tempo a projetos de software livre. Também adora ensinar e compartilhar algumas das suas experiências aqui neste blog.
 
 ## Biografia Estendida
 
@@ -32,12 +32,6 @@ Estou presente em várias redes sociais, como:
 [ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3) e
 [Google Acadêmico](https://scholar.google.com/citations?user=nrrROToAAAAJ).
 Mas se você quiser apenas me enviar um e-mail, fique a vontade e utilize o endereço <cfgnunes@gmail.com>.
-
-## Projetos
-
-* [wxLame]({{ site.baseurl }}/wxlame-pt)
-* [wxMP3gain]({{ site.baseurl }}/wxmp3gain-pt)
-* [wxMP3val]({{ site.baseurl }}/wxmp3val-pt)
 
 ## Currículos
 

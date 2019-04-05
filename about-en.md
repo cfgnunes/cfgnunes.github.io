@@ -23,7 +23,7 @@ I'm present in several social networks, such as
 [Spotify](https://open.spotify.com/user/cfgnunes),
 [LinkedIn](https://linkedin.com/in/cfgnunes),
 [GitHub](https://github.com/cfgnunes),
-[ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3) e
+[ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3) and
 [Google Scholar](https://scholar.google.com/citations?user=nrrROToAAAAJ).
 But if you want email me, feel free to use the address <cfgnunes@gmail.com>.
 

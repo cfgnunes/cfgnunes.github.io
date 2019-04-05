@@ -19,8 +19,7 @@ Durante o período de sua graduação, atuou como monitor da disciplina de Compu
 
 <div class="breaker"></div>
 
-Se quiser receber novidades sobre este website utilize o [feed RSS](https://cfgnunes.com/feed.xml).
-Estou presente em várias redes sociais, como:
+Presente em redes sociais, como:
 [Instagram](https://instagram.com/cfgnunes),
 [Facebook](https://facebook.com/cristiano.cfgnunes),
 [YouTube](https://youtube.com/cfgnunes),
@@ -31,7 +30,7 @@ Estou presente em várias redes sociais, como:
 [GitHub](https://github.com/cfgnunes),
 [ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3) e
 [Google Acadêmico](https://scholar.google.com/citations?user=nrrROToAAAAJ).
-Mas se você quiser apenas me enviar um e-mail, fique a vontade e utilize o endereço <cfgnunes@gmail.com>.
+Se você quiser apenas enviar um e-mail, fique a vontade e utilize o endereço <cfgnunes@gmail.com>.
 
 ## Currículos
 

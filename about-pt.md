@@ -30,7 +30,7 @@ Presente em redes sociais, como:
 [GitHub](https://github.com/cfgnunes),
 [ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3) e
 [Google Acadêmico](https://scholar.google.com/citations?user=nrrROToAAAAJ).
-Se você quiser apenas enviar um e-mail, fique a vontade e utilize o endereço <cfgnunes@gmail.com>.
+Se você quiser enviar um e-mail, fique a vontade e utilize o endereço <cfgnunes@gmail.com>.
 
 ## Currículos
 

@@ -13,9 +13,12 @@ Apaixonado por literatura, música e tecnologia, nas horas vagas você o encontr
 
 ## Biografia estendida
 
-Cristiano Fraga Guimarães Nunes, é brasileiro, natural de Araxá, nascido em 23 de outubro de 1987. É bacharel em Engenharia de Computação, mestre e doutorando em Modelagem Matemática e Computacional pelo CEFET-MG.	
-Em sua trajetória, fez curso nível técnico de Elétrica no SENAI e curso nível técnico em Eletrônica no CEFET-MG. Também possui especialização em Gestão de projetos, pela Universidade Cândido Mendes.	
-Durante o período de sua graduação, atuou como monitor da disciplina de Computação Gráfica, fez iniciações científicas na área de Processamento e Análise de Imagens e foi Membro do Colegiado do curso de Engenharia da Computação.	
+Cristiano Fraga Guimarães Nunes, é brasileiro, natural de Araxá, nascido em 23 de outubro de 1987. É bacharel em Engenharia de Computação, mestre e doutorando em Modelagem Matemática e Computacional pelo CEFET-MG. Em sua trajetória, fez curso nível técnico de Elétrica no SENAI e curso nível técnico em Eletrônica no CEFET-MG. Também possui especialização em Gestão de projetos, pela Universidade Cândido Mendes.
+
+Durante o período de sua graduação, atuou como monitor da disciplina de Computação Gráfica e atuou como membro do [Laboratório de Pesquisas Interdisciplinares em Informação Multimídia (Piim-Lab)](http://www.piim-lab.cefetmg.br) do Departamento de Computação do CEFET-MG, desenvolvendo projetos de pesquisa e iniciação científica, nas áreas de Processamento e Análise de Imagens e Visão Computacional.
+
+Durante o período do mestrado, sob orientação do [Prof. Flávio Luis Cardeal Pádua](http://lattes.cnpq.br/6545115051079964), atuou com pesquisas na área de processamento de imagens multiespectrais. Nesse período foi desenvolvido um novo algoritmo, denominado [*Multiespectral Feature Descriptor* (MFD)](https://github.com/cfgnunes/mfd), para extração de características em imagens com uma eficácia maior e mais rápido que métodos existentes como, por exemplo, SIFT, SURF, EOH e LGHD. Tais resultados foram publicados no artigo [*A Local Feature Descriptor Based on Log-Gabor Filters for Keypoint Matching in Multispectral Images*](https://ieeexplore.ieee.org/document/8024177).
+
 
 <div class="breaker"></div>
 

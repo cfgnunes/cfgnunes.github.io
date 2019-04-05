@@ -13,8 +13,7 @@ Passionate about literature, music, and technology, in the off-hours you find hi
 
 <div class="breaker"></div>
 
-If you want to receive news about this website use the [RSS feed](https://cfgnunes.com/feed.xml).
-I'm present in several social networks, such as
+Present in several social networks, such as
 [Instagram](https://instagram.com/cfgnunes),
 [Facebook](https://facebook.com/cristiano.cfgnunes),
 [YouTube](https://youtube.com/cfgnunes),
@@ -25,7 +24,7 @@ I'm present in several social networks, such as
 [GitHub](https://github.com/cfgnunes),
 [ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3) and
 [Google Scholar](https://scholar.google.com/citations?user=nrrROToAAAAJ).
-But if you want email me, feel free to use the address <cfgnunes@gmail.com>.
+If you want email me, feel free to use the address <cfgnunes@gmail.com>.
 
 ## Resumes
 

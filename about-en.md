@@ -13,7 +13,7 @@ Passionate about literature, music, and technology, in the off-hours you find hi
 
 <div class="breaker"></div>
 
-If you want to receive news about my website use [this RSS feed](https://cfgnunes.com/feed.xml).
+If you want to receive news about this website use the [RSS feed](https://cfgnunes.com/feed.xml).
 I'm present in several social networks, such as
 [Instagram](https://instagram.com/cfgnunes),
 [Facebook](https://facebook.com/cristiano.cfgnunes),

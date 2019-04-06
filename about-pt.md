@@ -17,7 +17,7 @@ Cristiano Fraga Guimarães Nunes, é brasileiro, natural de [Araxá](https://pt.
 
 Durante o período de sua graduação, atuou como monitor da disciplina de Computação Gráfica e atuou como membro do [Laboratório de Pesquisas Interdisciplinares em Informação Multimídia (Piim-Lab)](http://www.piim-lab.cefetmg.br) do Departamento de Computação do CEFET-MG, desenvolvendo projetos de pesquisa e iniciação científica, nas áreas de Processamento e Análise de Imagens e Visão Computacional.
 
-Durante o período do mestrado, sob orientação do [Prof. Flávio Luis Cardeal Pádua](http://lattes.cnpq.br/6545115051079964), atuou com pesquisas na área de processamento de imagens multiespectrais. Nesse período, desenvolveu um novo algoritmo, denominado [*Multiespectral Feature Descriptor* (MFD)](https://github.com/cfgnunes/mfd), para extração de características em imagens. Os resultados foram publicados no artigo [*A Local Feature Descriptor Based on Log-Gabor Filters for Keypoint Matching in Multispectral Images*](https://ieeexplore.ieee.org/document/8024177).
+Durante o período do mestrado, sob orientação do [Prof. Flávio Luis Cardeal Pádua](http://lattes.cnpq.br/6545115051079964), atuou com pesquisas na área de processamento de imagens multiespectrais. Nesse período, desenvolveu um novo algoritmo, denominado [*Multiespectral Feature Descriptor* (MFD)](https://github.com/cfgnunes/mfd), para descrição de imagens. Os resultados foram publicados no artigo [*A Local Feature Descriptor Based on Log-Gabor Filters for Keypoint Matching in Multispectral Images*](https://ieeexplore.ieee.org/document/8024177).
 
 
 <div class="breaker"></div>

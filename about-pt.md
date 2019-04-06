@@ -9,7 +9,7 @@ permalink: sobre/
 
 Cristiano Nunes é doutorando e mestre em Modelagem Matemática e Computacional pelo [Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)](https://www.cefetmg.br). Atua com desenvolvimento de software na Secretaria de Governança da Informação do CEFET-MG. Possui formação em Engenharia de Computação e Técnico em Eletrônica. Tem interesse nas seguintes áreas de pesquisa: Processamento e Análise de Imagens, Visão Computacional e Aprendizado de Máquina.
 
-Apaixonado por literatura, música e tecnologia, nas horas vagas você o encontra lendo livros, tocando e aprendendo piano e dedicando parte do seu tempo a projetos de software livre. Também adora ensinar e compartilhar algumas das suas experiências aqui neste website.
+Apaixonado por literatura, música e tecnologia, nas horas vagas você o encontra lendo livros, aprendendo piano e dedicando parte do seu tempo a projetos de software livre. Também adora ensinar e compartilhar algumas das suas experiências.
 
 ## Biografia estendida
 
@@ -17,7 +17,7 @@ Cristiano Fraga Guimarães Nunes, é brasileiro, natural de [Araxá](https://pt.
 
 Durante o período de sua graduação, atuou como monitor da disciplina de Computação Gráfica e atuou como membro do [Laboratório de Pesquisas Interdisciplinares em Informação Multimídia (Piim-Lab)](http://www.piim-lab.cefetmg.br) do Departamento de Computação do CEFET-MG, desenvolvendo projetos de pesquisa e iniciação científica, nas áreas de Processamento e Análise de Imagens e Visão Computacional.
 
-Durante o período do mestrado, sob orientação do [Prof. Flávio Luis Cardeal Pádua](http://lattes.cnpq.br/6545115051079964), atuou com pesquisas na área de processamento de imagens multiespectrais. Nesse período foi desenvolvido um novo algoritmo, denominado [*Multiespectral Feature Descriptor* (MFD)](https://github.com/cfgnunes/mfd), para extração de características em imagens com uma eficácia maior e mais rápido que métodos existentes como, por exemplo, SIFT, SURF, EOH e LGHD. Tais resultados foram publicados no artigo [*A Local Feature Descriptor Based on Log-Gabor Filters for Keypoint Matching in Multispectral Images*](https://ieeexplore.ieee.org/document/8024177).
+Durante o período do mestrado, sob orientação do [Prof. Flávio Luis Cardeal Pádua](http://lattes.cnpq.br/6545115051079964), atuou com pesquisas na área de processamento de imagens multiespectrais. Nesse período, desenvolveu um novo algoritmo, denominado [*Multiespectral Feature Descriptor* (MFD)](https://github.com/cfgnunes/mfd), para extração de características em imagens. Os resultados foram publicados no artigo [*A Local Feature Descriptor Based on Log-Gabor Filters for Keypoint Matching in Multispectral Images*](https://ieeexplore.ieee.org/document/8024177).
 
 
 <div class="breaker"></div>

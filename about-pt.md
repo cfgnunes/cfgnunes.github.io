@@ -23,7 +23,7 @@ Durante o período do mestrado, sob orientação do [Prof. Flávio Luis Cardeal 
 <div class="breaker"></div>
 
 Presente em redes sociais, como:
-[Facebook](https://facebook.com/cristiano.cfgnunes),
+[Facebook](https://facebook.com/cristianofraganunes),
 [YouTube](https://youtube.com/cfgnunes),
 [Skoob](https://www.skoob.com.br/usuario/3647026),
 [Spotify](https://open.spotify.com/user/cfgnunes),

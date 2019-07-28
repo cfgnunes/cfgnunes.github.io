@@ -14,7 +14,7 @@ Passionate about literature, music, and technology, in the off-hours you find hi
 <div class="breaker"></div>
 
 Present in several social networks, such as
-[Facebook](https://facebook.com/cristiano.cfgnunes),
+[Facebook](https://facebook.com/cristianofraganunes),
 [YouTube](https://youtube.com/cfgnunes),
 [Skoob](https://www.skoob.com.br/usuario/3647026),
 [Spotify](https://open.spotify.com/user/cfgnunes),

@@ -21,8 +21,6 @@ ref: wxmp3gain
 
 ![Screenshot](https://a.fsdn.com/con/app/proj/wxmp3gain/screenshots/main.png/max/max/1)
 
-## Funcionalidades
-
 ## Informações
 
 * Última versão: 4.0 ([Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/CHANGELOG))

@@ -23,11 +23,6 @@ wxMP3val is a free front-end for the MP3val. Dedicated to MP3 files, wxMP3val le
 
 ![Screenshot](https://a.fsdn.com/con/app/proj/wxmp3val/screenshots/Main.png/max/max/1)
 
-## Features
-
-* Supports batch file (MP3) scanning and repairing;
-* Once scanned, it shows details such as the audio layer version, meta-tag version, if the file was encoded using CBR (constant bit rate) and the condition.
-
 ## Informations
 
 * Latest version: 4.0 ([Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3val/master/docs/CHANGELOG))

@@ -21,8 +21,6 @@ ref: wxlame
 
 ![Screenshot](https://a.fsdn.com/con/app/proj/wxlame/screenshots/main%20screen.png/max/max/1)
 
-## Features
-
 ## Informations
 
 * Latest version: 3.5.1 ([Changelog](https://raw.githubusercontent.com/cfgnunes/wxlame/master/docs/CHANGELOG))

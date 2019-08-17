@@ -23,11 +23,6 @@ O wxMP3val é um front-end gratuito para o MP3val. Dedicado a arquivos MP3, o wx
 
 ![Screenshot](https://a.fsdn.com/con/app/proj/wxmp3val/screenshots/Main.png/max/max/1)
 
-## Funcionalidades
-
-* Suporta verificação e reparação de arquivos em lote (MP3);
-* Uma vez verificado, ele mostra detalhes como a versão da camada de áudio, a versão da meta tag, se o arquivo foi codificado usando CBR (taxa de bits constante) e a condição.
-
 ## Informações
 
 * Última versão: 4.0 ([Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3val/master/docs/CHANGELOG))

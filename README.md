@@ -34,9 +34,10 @@ Now, just open it in your browser: <http://localhost:4000>
 
 ### Running htmlproofer
 
-Use the following command:
+Use the following commands:
 
 ```sh
+bundle exec jekyll build
 bundle exec htmlproofer ./_site --only-4xx
 ```
 

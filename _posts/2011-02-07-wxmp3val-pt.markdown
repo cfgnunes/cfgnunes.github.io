@@ -13,7 +13,6 @@ author: cfgnunes
 description: Uma ferramenta gratuita para verificar a integridade de arquivos MP3.
 externalLink: false
 projects: true
-hidden: true
 lang: pt
 ref: wxmp3val
 ---

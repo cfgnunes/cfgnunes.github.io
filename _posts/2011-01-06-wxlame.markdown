@@ -13,7 +13,6 @@ author: cfgnunes
 description: A free MP3 volume normalizer.
 externalLink: false
 projects: true
-hidden: true
 lang: en
 ref: wxlame
 ---

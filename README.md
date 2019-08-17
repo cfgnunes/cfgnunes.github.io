@@ -19,7 +19,7 @@ sudo apt-get -y install bundler zlib1g-dev libxml2-dev libxslt1-dev
 Enter the cloned folder via terminal and run:
 
 ```sh
-bundle install
+bundle install --path vendor/bundle
 ```
 
 ### Running the website
@@ -31,6 +31,14 @@ bundle exec jekyll serve --config _config.yml,_config-dev.yml
 ```
 
 Now, just open it in your browser: <http://localhost:4000>
+
+### Running htmlproofer
+
+Use the following command:
+
+```sh
+bundle exec htmlproofer ./_site --only-4xx
+```
 
 ## Acknowledgments
 

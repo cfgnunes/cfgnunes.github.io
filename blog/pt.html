@@ -7,9 +7,9 @@ lang: pt
 <section class="list">
     {% assign posts=site.posts | where:"lang", page.lang | where:"category", "blog" %}
     {% if posts.size == 0 %}
-        <p class="text-center">Nenhuma publicação ainda!</p>
+        <p class="text-center">{{ site.data['messages']['msgNothingPublished'].[page.lang] }}</p>
     {% elsif site.paginate %}
-        {% assign posts=paginator.posts | where:"lang", page.lang %}    
+        {% assign posts=paginator.posts | where:"lang", page.lang %}
         {% for post in posts %}
             {% if post.category == 'blog' %}
                 {% if post.hidden != true %}
@@ -20,7 +20,7 @@ lang: pt
 
         {% include pagination.html%}
     {% else %}
-        {% assign posts=site.posts | where:"lang", page.lang %} 
+        {% assign posts=site.posts | where:"lang", page.lang %}
         {% for post in posts %}
             {% if post.category == 'blog' %}
                 {% if post.hidden != true %}

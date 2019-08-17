@@ -77,7 +77,7 @@ width: large
 # Enable or disable the pages
 projects: true
 about: true
-blog: false
+blog: true
 
 # Show the "read time" of the posts
 read-time: true

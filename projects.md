@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Projetos
+title: Projects
 ref: projects
-lang: pt
-permalink: projetos/
+permalink: projects/
 ---
 <section class="list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
+    {% assign posts=site.posts %}
     {% for post in posts %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">

@@ -7,7 +7,7 @@
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
-            <a class="link" href="{{ site.url }}/{{ site.data['urls']['about'][page.lang] }}">
+            <a class="link" href="{{ site.url }}/about">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </a>
         {% else %}
@@ -17,7 +17,7 @@
         {% endif %}
 
         <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">{{ site.bio.[page.lang] }}</h2>
+        <h2 class="description">{{ site.bio }}</h2>
 
         {% if page.ref == "home" %}
             {% include social-links.html links=site.data.social-links %}

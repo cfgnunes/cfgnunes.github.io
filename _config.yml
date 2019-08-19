@@ -1,8 +1,6 @@
 # Main text of home
 name: Cristiano Nunes
-bio:
-  en: Software Developer, Researcher
-  pt: Desenvolvedor de Software, Pesquisador
+bio: Software Developer, Researcher
 
 # Summary info
 description: A blog about technology and stuff related
@@ -16,9 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 curriculum: true
 curriculum-external: true
-curriculum-url:
-  en: https://drive.google.com/file/d/1zNhdNFh9MIBYOWQ6iy9Efr9-JFVCV2C3
-  pt: https://drive.google.com/file/d/1zNhdNFh9MIBYOWQ6iy9Efr9-JFVCV2C3
+curriculum-url: https://drive.google.com/file/d/1zNhdNFh9MIBYOWQ6iy9Efr9-JFVCV2C3
 
 url: https://cfgnunes.com
 
@@ -61,9 +57,7 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: cfgnunes
-        bio:
-          en: A warrior of the light.
-          pt: Um guerreiro da luz.
+        bio: A warrior of the light.
 
 # Do you want a larger site? change the option below
 # options: [normal, large] | default: normal

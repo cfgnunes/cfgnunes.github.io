@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Categorias
+title: Tags
 ref: tags
-lang: pt
-permalink: categorias/
+permalink: tags/
 ---
 <section class="list">
-    <h1 class="title">Categorias</h1>
+    <h1 class="title">Tags</h1>
 
     {% assign tags_list = site.tags %}
 
@@ -30,7 +29,7 @@ permalink: categorias/
     <h2 class="title" id="{{ tag[0] | slugify }}">#{{ tag[0] }}</h2>
 
     <ul class="list">
-        {% assign pages_list = tag[1] | where:"lang", page.lang %}
+        {% assign pages_list = tag[1] %}
         {% for post in pages_list reversed %}
             {% if post.title != null %}
                 {% if group == null or group == post.group %}

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Sobre
 ref: about
-permalink: about/
+permalink: sobre/
 ---
 [![Profile Image]({{ site.url }}/assets/images/profile-about.jpg)]({{ site.baseurl }}/)
 

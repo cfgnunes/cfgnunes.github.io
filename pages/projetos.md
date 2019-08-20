@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Projetos
 ref: projects
-permalink: projects/
+permalink: projetos/
 ---
 <section class="list">
     {% assign posts=site.posts %}

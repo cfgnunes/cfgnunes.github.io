@@ -31,5 +31,5 @@ Se você quiser enviar um e-mail, fique a vontade e utilize o endereço <cfgnune
 
 ## Currículos
 
-* [Profissional]({% if site.curriculum-external %}{{ site.curriculum-url.pt }}{% else %}{{ site.url }}/{{ site.curriculum-url.pt }}{% endif %})
+* [Profissional]({% if site.curriculum-external %}{{ site.curriculum-url }}{% else %}{{ site.url }}/{{ site.curriculum-url }}{% endif %})
 * [Plataforma Lattes](http://lattes.cnpq.br/3985172295525735)

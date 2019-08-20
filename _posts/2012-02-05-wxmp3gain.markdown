@@ -16,21 +16,21 @@ projects: true
 ref: wxmp3gain
 ---
 
-## Introduction
+## Introdução
 
 ![Screenshot](https://a.fsdn.com/con/app/proj/wxmp3gain/screenshots/main.png/max/max/1)
 
-## Informations
+## Informações
 
-* Latest version: 4.0 ([Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/CHANGELOG))
-* License: Open Source ([License](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/COPYING))
-* System requirements: Microsoft Windows XP/Vista/7/8/10 or GNU/Linux
+* Última versão: 4.0 ([Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/CHANGELOG))
+* Licença: Open Source ([License](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/COPYING))
+* Requisitos de sistema: Microsoft Windows XP/Vista/7/8/10 or GNU/Linux
 
 <div class="buttons">
     <a class="download" href="https://sourceforge.net/projects/wxmp3gain/files/latest/download" target="_blank">
         <svg class="icon icon-download"><use xlink:href="#icon-download"></use></svg><span class="icon-download">Download</span>
     </a>
     <a class="source" href="https://github.com/cfgnunes/wxmp3gain" target="_blank">
-        <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg><span class="icon-github">Source Code</span>
+        <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg><span class="icon-github">Código Fonte</span>
     </a>
 </div>

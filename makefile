@@ -1,7 +1,7 @@
 VENDOR_DIR=vendor
 VENDOR_FILE=$(VENDOR_DIR)/installed
 
-.PHONY: help env run clean
+.PHONY: help env run test clean
 
 help:
 	@echo "'make run': Run the website."
@@ -28,6 +28,8 @@ test: env
 	@echo "Running test: htmlproofer..."
 	@bundle exec jekyll build
 	@bundle exec htmlproofer ./_site --only-4xx
+	@echo "Done!"
+	@echo
 
 clean:
 	@echo "Cleaning up generated files..."

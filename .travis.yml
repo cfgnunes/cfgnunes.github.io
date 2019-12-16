@@ -10,6 +10,3 @@ branches:
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --only-4xx
-  - make help
-  - make clean
-  - make env

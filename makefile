@@ -13,7 +13,6 @@ help:
 env: $(VENDOR_FILE)
 $(VENDOR_FILE):
 	@echo "Preparing development environment..."
-	@export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 	@bundle install --path vendor/bundle
 	@touch $(VENDOR_FILE)
 	@echo "Done!"
@@ -27,9 +26,8 @@ run: env
 
 test: env
 	@echo "Running test: htmlproofer..."
-	@export NOKOGIRI_USE_SYSTEM_LIBRARIES=true; \
-		bundle exec jekyll build; \
-		bundle exec htmlproofer ./_site --only-4xx
+	@bundle exec jekyll build
+	@bundle exec htmlproofer ./_site --only-4xx
 
 clean:
 	@echo "Cleaning up generated files..."

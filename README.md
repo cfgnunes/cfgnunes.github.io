@@ -11,7 +11,7 @@ Repository of my personal website published in <https://cfgnunes.com>.
 This section assumes Ubuntu 16.04 (also tested on Ubuntu 18.04), but the procedure is similar for other Linux distributions. The prerequisites is to install the following packages:
 
 ```sh
-sudo apt-get -y install make bundler zlib1g-dev libxml2-dev libxslt1-dev
+sudo apt -y install make bundler zlib1g-dev libxml2-dev libxslt1-dev
 ```
 
 ### Running the website

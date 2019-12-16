@@ -14,32 +14,15 @@ This section assumes Ubuntu 16.04 (also tested on Ubuntu 18.04), but the procedu
 sudo apt-get -y install bundler zlib1g-dev libxml2-dev libxslt1-dev
 ```
 
-### Installing dependencies
-
-Enter the cloned folder via terminal and run:
-
-```sh
-bundle install --path vendor/bundle
-```
-
 ### Running the website
 
 Use the following command:
 
 ```sh
-bundle exec jekyll serve --config _config.yml,_config-dev.yml
+make run
 ```
 
 Now, just open it in your browser: <http://localhost:4000>
-
-### Running htmlproofer
-
-Use the following commands:
-
-```sh
-bundle exec jekyll build
-bundle exec htmlproofer ./_site --only-4xx
-```
 
 ## Acknowledgments
 

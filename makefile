@@ -13,7 +13,7 @@ help:
 	@echo
 
 env: $(VENDOR_FILE)
-$(VENDOR_FILE):
+$(VENDOR_FILE): Gemfile
 	@echo "Preparing development environment..."
 	@bundle install --path vendor/bundle
 	@touch $(VENDOR_FILE)

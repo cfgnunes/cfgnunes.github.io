@@ -1,7 +1,9 @@
 VENDOR_DIR=vendor
 VENDOR_FILE=$(VENDOR_DIR)/installed
 
-.PHONY: help env run test clean
+.PHONY: default help env run test clean
+
+default: run
 
 help:
 	@echo "'make run': Run the website."

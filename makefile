@@ -6,10 +6,10 @@ VENDOR_FILE=$(VENDOR_DIR)/installed
 default: run
 
 help:
-	@echo "'make run': Run the website."
-	@echo "'make env': Prepare development environment, use only once."
-	@echo "'make test': Run a htmlproofer for tests."
 	@echo "'make clean': Cleans up generated files."
+	@echo "'make env': Prepare development environment."
+	@echo "'make run': Run the project."
+	@echo "'make test': Run the tests."
 	@echo
 
 env: $(VENDOR_FILE)
@@ -21,13 +21,13 @@ $(VENDOR_FILE): Gemfile
 	@echo
 
 run: env
-	@echo "Running the website..."
+	@echo "Running the project..."
 	@bundle exec jekyll serve --config _config.yml,_config-dev.yml
 	@echo "Done!"
 	@echo
 
 test: env
-	@echo "Running test: htmlproofer..."
+	@echo "Running the tests..."
 	@bundle exec jekyll build
 	@bundle exec htmlproofer ./_site --only-4xx
 	@echo "Done!"

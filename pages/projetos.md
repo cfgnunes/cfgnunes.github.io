@@ -4,6 +4,7 @@ title: Projetos
 ref: projects
 permalink: projetos/
 ---
+
 <section class="list">
     {% assign posts=site.posts %}
     {% for post in posts %}

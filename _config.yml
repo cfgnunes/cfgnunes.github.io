@@ -21,7 +21,7 @@ url: https://cfgnunes.com
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-137055954-1'
+analytics-google: "UA-137055954-1"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -49,15 +49,33 @@ youtube: cfgnunes
 # medium: medium
 # quora: userquora
 # stackoverflow: 3112437/cristiano-nunes
-social-links-order: [linkedin, lattes, github, researchgate, scholar, gitlab, stackoverflow, instagram, twitter, facebook, youtube, spotify, skoob, quora, medium, email]
+social-links-order:
+  [
+    linkedin,
+    lattes,
+    github,
+    researchgate,
+    scholar,
+    gitlab,
+    stackoverflow,
+    instagram,
+    twitter,
+    facebook,
+    youtube,
+    spotify,
+    skoob,
+    quora,
+    medium,
+    email,
+  ]
 
 authors:
-    cfgnunes:
-        name: Cristiano Nunes
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: cfgnunes
-        bio: Um guerreiro da luz.
+  cfgnunes:
+    name: Cristiano Nunes
+    external-image: false
+    picture: assets/images/profile.jpg
+    twitter: cfgnunes
+    bio: Um guerreiro da luz.
 
 # Do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -99,12 +117,12 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
 
 compress_html:
-    ignore:
-        envs:
-        - development
-        - stage
+  ignore:
+    envs:
+      - development
+      - stage
 
 exclude: ["README.md", "Gemfile", "Gemfile.lock", "vendor/bundle", "makefile"]

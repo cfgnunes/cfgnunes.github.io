@@ -4,6 +4,7 @@ title: Categorias
 ref: tags
 permalink: categorias/
 ---
+
 <section class="list">
     <h1 class="title">Categorias</h1>
 
@@ -20,6 +21,7 @@ permalink: categorias/
     {% endif %}
 
     {% assign tags_list = nil %}
+
 </section>
 
 <hr>
@@ -48,4 +50,5 @@ permalink: categorias/
 
     <div class="breaker"></div>
     {% endfor %}
+
 </section>

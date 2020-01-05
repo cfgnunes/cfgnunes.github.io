@@ -26,17 +26,17 @@ Now, just open it in your browser: <http://localhost:4000>
 
 ## Built With
 
-* [Ruby](https://www.ruby-lang.org/) - Programming language used
-* [Jekyll](https://jekyllrb.com/) - A simple, blog-aware, static site generator
+- [Ruby](https://www.ruby-lang.org/) - Programming language used
+- [Jekyll](https://jekyllrb.com/) - A simple, blog-aware, static site generator
 
 Other tools:
 
-* [GNU Make](https://www.gnu.org/software/make/) - A build automation tool
+- [GNU Make](https://www.gnu.org/software/make/) - A build automation tool
 
 ## Authors
 
-* Cristiano Nunes - *Developer*
+- Cristiano Nunes - _Developer_
 
 ## Acknowledgments
 
-* Sérgio Kopplin - *Made the template [Indigo](https://github.com/sergiokopplin/indigo), used in this website*
+- Sérgio Kopplin - _Made the template [Indigo](https://github.com/sergiokopplin/indigo), used in this website_

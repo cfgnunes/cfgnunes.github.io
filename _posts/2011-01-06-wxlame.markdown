@@ -5,8 +5,8 @@ date: 2011-01-06 23:10
 image: https://raw.githubusercontent.com/cfgnunes/wxlame/master/debian/menu/icon64x64.png
 headerImage: true
 tag:
-- audio
-- application
+  - audio
+  - application
 star: false
 category: project
 author: cfgnunes
@@ -16,21 +16,22 @@ projects: true
 ref: wxlame
 ---
 
-## Introdução
+## wxLame
 
-![Screenshot](https://a.fsdn.com/con/app/proj/wxlame/screenshots/main%20screen.png/max/max/1)
+wxLame is a free front-end for the LAME MP3 encoder.
 
-## Informações
+![Screenshot](https://raw.githubusercontent.com/cfgnunes/wxlame/master/doc/screenshot.png)
 
-* Última versão: 3.5.1 ([Changelog](https://raw.githubusercontent.com/cfgnunes/wxlame/master/docs/CHANGELOG))
-* Licença: Open Source ([License](https://raw.githubusercontent.com/cfgnunes/wxlame/master/docs/COPYING))
-* Requisitos de sistema: Microsoft Windows XP/Vista/7/8/10 or GNU/Linux
+## Informations
+
+- [Changelog](https://raw.githubusercontent.com/cfgnunes/wxlame/master/doc/CHANGELOG)
+- [License](https://raw.githubusercontent.com/cfgnunes/wxlame/master/doc/COPYING)
 
 <div class="buttons">
     <a class="download" href="https://sourceforge.net/projects/wxlame/files/latest/download" target="_blank">
         <svg class="icon icon-download"><use xlink:href="#icon-download"></use></svg><span class="icon-download">Download</span>
     </a>
     <a class="source" href="https://github.com/cfgnunes/wxlame" target="_blank">
-        <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg><span class="icon-github">Código Fonte</span>
+        <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg><span class="icon-github">Source code</span>
     </a>
 </div>

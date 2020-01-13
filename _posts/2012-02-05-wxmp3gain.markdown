@@ -5,26 +5,27 @@ date: 2012-02-05 23:10
 image: https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/debian/menu/icon64x64.png
 headerImage: true
 tag:
-- audio
-- application
+  - audio
+  - application
 star: false
 category: project
 author: cfgnunes
-description: A free MP3 volume normalizer.
+description: wxMP3gain is a free front-end for the MP3gain.
 externalLink: false
 projects: true
 ref: wxmp3gain
 ---
 
-## Introdução
+## Introduction
 
-![Screenshot](https://a.fsdn.com/con/app/proj/wxmp3gain/screenshots/main.png/max/max/1)
+wxMP3gain is a free front-end for the MP3gain.
 
-## Informações
+![Screenshot](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/doc/screenshot.png)
 
-* Última versão: 4.0 ([Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/CHANGELOG))
-* Licença: Open Source ([License](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/docs/COPYING))
-* Requisitos de sistema: Microsoft Windows XP/Vista/7/8/10 or GNU/Linux
+## Informations
+
+- [Changelog](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/doc/CHANGELOG)
+- [License](https://raw.githubusercontent.com/cfgnunes/wxmp3gain/master/doc/COPYING)
 
 <div class="buttons">
     <a class="download" href="https://sourceforge.net/projects/wxmp3gain/files/latest/download" target="_blank">

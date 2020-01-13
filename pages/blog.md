@@ -2,7 +2,9 @@
 layout: page
 title: Blog
 ref: blog
+permalink: blog/
 ---
+
 <section class="list">
     {% assign posts=site.posts | where:"category", "blog" %}
     {% if posts.size == 0 %}
@@ -12,7 +14,7 @@ ref: blog
         {% for post in posts %}
             {% if post.category == 'blog' %}
                 {% if post.hidden != true %}
-                    {% include blog-post.html %}
+                    {% include post.html %}
                 {% endif %}
             {% endif %}
         {% endfor %}
@@ -23,7 +25,7 @@ ref: blog
         {% for post in posts %}
             {% if post.category == 'blog' %}
                 {% if post.hidden != true %}
-                    {% include blog-post.html %}
+                    {% include post.html %}
                 {% endif %}
             {% endif %}
         {% endfor %}

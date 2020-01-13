@@ -12,7 +12,6 @@ category: project
 author: cfgnunes
 description: wxMP3val is a free front-end for the MP3val.
 externalLink: false
-projects: true
 ref: wxmp3val
 ---
 

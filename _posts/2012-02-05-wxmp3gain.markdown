@@ -12,7 +12,6 @@ category: project
 author: cfgnunes
 description: wxMP3gain is a free front-end for the MP3gain.
 externalLink: false
-projects: true
 ref: wxmp3gain
 ---
 

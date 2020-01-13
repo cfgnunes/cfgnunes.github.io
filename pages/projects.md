@@ -6,15 +6,28 @@ permalink: projects/
 ---
 
 <section class="list">
-    {% assign posts=site.posts %}
-    {% for post in posts %}
-        {% if post.projects %}
-            <div class="item {% if post.star %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                    <h3 class="title">{{ post.title }}</h3>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
+    {% assign posts=site.posts | where:"category", "project" %}
+    {% if posts.size == 0 %}
+        <p class="text-center">No posts yet!</p>
+    {% elsif site.paginate %}
+        {% assign posts=paginator.posts %}
+        {% for post in posts %}
+            {% if post.category == 'project' %}
+                {% if post.hidden != true %}
+                    {% include post.html %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+
+        {% include pagination.html%}
+    {% else %}
+        {% assign posts=site.posts %}
+        {% for post in posts %}
+            {% if post.category == 'project' %}
+                {% if post.hidden != true %}
+                    {% include post.html %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
 </section>

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projetos
+title: Projects
 ref: projects
-permalink: projetos/
+permalink: projects/
 ---
 
 <section class="list">

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Categorias
+title: Tags
 ref: tags
-permalink: categorias/
+permalink: tags/
 ---
 
 <section class="list">
-    <h1 class="title">Categorias</h1>
+    <h1 class="title">Tags</h1>
 
     {% assign tags_list = site.tags %}
 

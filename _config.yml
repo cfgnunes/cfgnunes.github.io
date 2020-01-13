@@ -1,9 +1,9 @@
 # Main text of home
 name: Cristiano Nunes
-bio: Desenvolvedor de Software, Pesquisador
+bio: Software developer, Researcher
 
 # Summary info
-description: Um blog sobre tecnologia
+description: A blog about technology
 
 # If it's an external image, update below for true
 # better with square images
@@ -76,7 +76,7 @@ authors:
     external-image: false
     picture: assets/images/profile.jpg
     twitter: cfgnunes
-    bio: Um guerreiro da luz.
+    bio: A warrior of the light.
 
 # Do you want a larger site? change the option below
 # options: [normal, large] | default: normal

@@ -1,5 +1,5 @@
 ---
-title: How to contribute to a project on Github
+title: "How to contribute to a project on Github"
 layout: post
 date: 2020-01-14 08:54
 tag:

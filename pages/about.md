@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: about
+permalink: about/
 ---
 
 [![Profile Image]({{ site.url }}/assets/images/profile-about.jpg)]({{ site.baseurl }}/)

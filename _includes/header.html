@@ -19,7 +19,7 @@
         <h1 class="title">{{ site.name }}</h1>
         <h2 class="description">{{ site.bio }}</h2>
 
-        {% if page.permalink == "/" %}
+        {% if page.title == "Home" %}
             {% include social-links.html links=site.data.social-links %}
         {% endif %}
     </header>

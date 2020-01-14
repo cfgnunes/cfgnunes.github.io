@@ -29,11 +29,5 @@
                 </li>
             {% endif %}
         {% endif %}
-
-        {% if site.curriculum == true %}
-            <li class="item">
-                <a class="link" href="{% if site.curriculum-external %}{{ site.curriculum-url }}{% else %}{{ site.url }}/{{ site.curriculum-url }}{% endif %}" {% if site.curriculum-external %}target="_blank"{% endif %}>Curriculum</a>
-            </li>
-        {% endif %}
     </ul>
 </nav>

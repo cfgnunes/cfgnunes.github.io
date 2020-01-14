@@ -10,12 +10,6 @@ description: A blog about technology
 external-image: false
 picture: assets/images/profile.jpg
 
-# If you want to include your curriculum, set to true
-# and specify source (external or local).
-curriculum: true
-curriculum-external: true
-curriculum-url: https://drive.google.com/file/d/1zNhdNFh9MIBYOWQ6iy9Efr9-JFVCV2C3
-
 url: https://cfgnunes.com
 
 # Define default permalink for all pages if it was not set

@@ -18,6 +18,7 @@ curriculum-url: https://drive.google.com/file/d/1zNhdNFh9MIBYOWQ6iy9Efr9-JFVCV2C
 
 url: https://cfgnunes.com
 
+# Define default permalink for all pages if it was not set
 permalink: /:title/
 
 # To enable google analytics, supply your token below

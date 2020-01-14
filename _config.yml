@@ -50,6 +50,7 @@ youtube: cfgnunes
 # gitlab: mygitlab
 # medium: medium
 # quora: userquora
+# reddit: username
 # stackoverflow: 3112437/cristiano-nunes
 social-links-order:
   [
@@ -67,6 +68,7 @@ social-links-order:
     spotify,
     skoob,
     quora,
+    reddit,
     medium,
     email,
   ]

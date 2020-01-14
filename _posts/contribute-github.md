@@ -20,7 +20,7 @@ Now, you can access your copy at <http://github.com/YOUR_USERNAME/latex-cefetmg>
 Clone your fork git repository on your local computer.
 
 ```sh
-git clone git@github.com:YOUR_USERNAME/wordpress-on-dotcloud.git
+git clone git@github.com:YOUR_USERNAME/latex-cefetmg.git
 ```
 
 Create a new branch for your patch:

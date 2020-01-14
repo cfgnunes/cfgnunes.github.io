@@ -1,13 +1,13 @@
-<nav class="{% if page.ref == 'home' %}nav-home{% else %}nav{% endif %}">
+<nav class="{% if page.permalink == '/' %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
-        {% if page.ref != "home" %}
+        {% if page.permalink != "/" %}
             <li class="item">
                 <a class="link" href="{{ site.url }}">Home</a>
             </li>
         {% endif %}
 
         {% if site.blog == true %}
-            {% if page.ref != "blog" %}
+            {% if page.permalink != "blog" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/blog">Blog</a>
                 </li>
@@ -15,7 +15,7 @@
         {% endif %}
 
         {% if site.projects == true %}
-            {% if page.ref != "projects" %}
+            {% if page.permalink != "projects" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/projects">Projects</a>
                 </li>
@@ -23,7 +23,7 @@
         {% endif %}
 
         {% if site.about == true %}
-            {% if page.ref != "about" %}
+            {% if page.permalink != "about" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/about">About</a>
                 </li>

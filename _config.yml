@@ -88,9 +88,9 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # Enable or disable the pages
+blog: true
 projects: true
 about: true
-blog: true
 
 # Show the "read time" of the posts
 read-time: true

@@ -1,7 +1,7 @@
-{% if page.ref == "home"
-   or page.ref == "blog"
-   or page.ref == "projects"
-   or page.ref == "tags"
+{% if page.permalink == "/"
+   or page.permalink == "blog"
+   or page.permalink == "projects"
+   or page.permalink == "tags"
 %}{% assign showHeader = true %}{% endif %}
 
 {% if showHeader == true %}
@@ -19,7 +19,7 @@
         <h1 class="title">{{ site.name }}</h1>
         <h2 class="description">{{ site.bio }}</h2>
 
-        {% if page.ref == "home" %}
+        {% if page.permalink == "/" %}
             {% include social-links.html links=site.data.social-links %}
         {% endif %}
     </header>

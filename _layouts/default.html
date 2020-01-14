@@ -35,9 +35,9 @@ layout: compress
             <div class="page post">
         {% else %}
             {% if showHeader != true %}
-                <div class="page {{ page.ref | downcase }}">
+                <div class="page {{ page.permalink | downcase }}">
             {% else %}
-                <div class="{{ page.ref | downcase }}">
+                <div class="{{ page.permalink | downcase }}">
             {% endif %}
         {% endif %}
 

@@ -1,33 +1,28 @@
 ---
 layout: page
 title: Blog
-ref: blog
-permalink: blog/
+permalink: blog
 ---
 
 <section class="list">
     {% assign posts=site.posts | where:"category", "blog" %}
     {% if posts.size == 0 %}
         <p class="text-center">No posts yet!</p>
-    {% elsif site.paginate %}
-        {% assign posts=paginator.posts %}
-        {% for post in posts %}
-            {% if post.category == 'blog' %}
-                {% if post.hidden != true %}
-                    {% include post.html %}
-                {% endif %}
-            {% endif %}
-        {% endfor %}
-
-        {% include pagination.html%}
     {% else %}
-        {% assign posts=site.posts %}
-        {% for post in posts %}
-            {% if post.category == 'blog' %}
+        {% if site.paginate %}
+            {% assign posts=paginator.posts | where:"category", "blog" %}
+            {% for post in posts %}
                 {% if post.hidden != true %}
                     {% include post.html %}
                 {% endif %}
-            {% endif %}
-        {% endfor %}
+            {% endfor %}
+            {% include pagination.html%}
+        {% else %}
+            {% for post in posts %}
+                {% if post.hidden != true %}
+                    {% include post.html %}
+                {% endif %}
+            {% endfor %}
+        {% endif %}
     {% endif %}
 </section>

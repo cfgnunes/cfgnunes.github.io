@@ -15,7 +15,7 @@ Let's say you want to contribute to the project [latex-cefetmg](https://github.c
 
 Make your working copy of the project by forking it: go on the project page (<https://github.com/cfgnunes/latex-cefetmg>) and click in "Fork" button.
 
-Now, you can access your copy at <http://github.com/YOUR_USERNAME/latex-cefetmg>
+Now, you can access your copy at <https://github.com/YOUR_USERNAME/latex-cefetmg>
 
 Clone your fork git repository on your local computer.
 

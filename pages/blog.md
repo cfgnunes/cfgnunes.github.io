@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+permalink: blog/
 ---
 
 <section class="list">

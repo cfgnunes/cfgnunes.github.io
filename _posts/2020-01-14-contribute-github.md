@@ -21,7 +21,7 @@ Let's say you want to contribute to the project [latex-cefetmg](https://github.c
 
 Make your working copy of the project by forking it: go on the project page (<https://github.com/cfgnunes/latex-cefetmg>) and click in the "Fork" button.
 
-Now, you can access your copy at <https://github.com/YOUR_USERNAME/latex-cefetmg>
+Now, you can access your copy at https<nolink>://github.com/YOUR_USERNAME/latex-cefetmg
 
 Clone your fork git repository on your local computer.
 
@@ -59,6 +59,6 @@ git push origin my-patch
 
 ## Step 3: Create the "Pull Request"
 
-Go on your fork page (<https://github.com/YOUR_USERNAME/latex-cefetmg>), then select `my-patch` in the branch list and click "Pull Request".
+Go on your fork page (https<nolink>://github.com/YOUR_USERNAME/latex-cefetmg), then select `my-patch` in the branch list and click "Pull Request".
 
 Check the diff, write a message explaining what you have done and why the repository owner should accept your pull request and submit.

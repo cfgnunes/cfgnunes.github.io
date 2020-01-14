@@ -40,16 +40,12 @@ git branch my-patch
 This is very important, create one branch per patch.
 And never submit a patch that has been done on the branch `master`!
 
-Do your trick, make your patch, change the code, fix a bug, add a cool feature, etc.
-
-When you are done, commit your changes:
+Do your trick, make your patch, change the code, fix a bug, add a cool feature, etc. When you are done, commit your changes:
 
 ```sh
 git add -u
 git commit -m "Fixing some broken feature"
 ```
-
-Try to keep the commit message short with few words.
 
 Push your new branch to github:
 
@@ -59,6 +55,6 @@ git push origin my-patch
 
 ## Step 3: Create the "Pull Request"
 
-Go on your fork page (https<nolink>://github.com/YOUR_USERNAME/latex-cefetmg), then select `my-patch` in the branch list and click "Pull Request".
+Go on your fork page (https<nolink>://github.com/YOUR_USERNAME/latex-cefetmg), then select my-patch in the branch list and click "Pull Request".
 
 Check the diff, write a message explaining what you have done and why the repository owner should accept your pull request and submit.

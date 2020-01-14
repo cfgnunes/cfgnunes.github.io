@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Tags
-permalink: tags/
 ---
 
 <section class="list">

@@ -19,7 +19,7 @@ Present in several social networks, such as
 [LinkedIn](https://linkedin.com/in/cfgnunes),
 [GitHub](https://github.com/cfgnunes),
 [ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3) e
-[Google Acadêmico](https://scholar.google.com/citations?user=nrrROToAAAAJ).
+[Google Scholar](https://scholar.google.com/citations?user=nrrROToAAAAJ).
 If you want to email me, feel free to use the address <cfgnunes@gmail.com>.
 
 ## Curriculum

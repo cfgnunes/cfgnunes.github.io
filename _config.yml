@@ -24,8 +24,8 @@ analytics-google: "UA-137055954-1"
 
 # If you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [] # only show disqus for posts that have these categories
+  shortname: cfgnunes # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
 
 # If you don't have any of social below, comment the line
 email: cfgnunes@gmail.com

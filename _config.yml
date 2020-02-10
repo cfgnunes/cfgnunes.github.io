@@ -80,9 +80,13 @@ authors:
 # normal = 560px / large = 810px
 width: normal
 
-# If you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+# If you do/don't need pagination, toggle 'enabled' between true/false below
+pagination:
+  enabled: false
+  sort_reverse: true # Display recent posts first
+  title: ":title" # Changing this will mess up the header display logic
+  per_page: 5
+  permalink: "/:num/" # Pagination link that will be appended
 
 # Enable or disable the pages
 blog: true
@@ -113,6 +117,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-paginate-v2
 
 jekyll-mentions:
   base_url: https://github.com

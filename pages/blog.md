@@ -2,6 +2,8 @@
 layout: page
 title: Blog
 permalink: blog/
+pagination:
+  enabled: true
 ---
 
 <section class="list">
@@ -9,7 +11,7 @@ permalink: blog/
     {% if posts.size == 0 %}
         <p class="text-center">No posts yet!</p>
     {% else %}
-        {% if site.paginate %}
+        {% if site.pagination.enabled %}
             {% assign posts=paginator.posts | where:"category", "blog" %}
             {% for post in posts %}
                 {% if post.hidden != true %}

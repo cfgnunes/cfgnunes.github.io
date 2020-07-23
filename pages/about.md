@@ -24,5 +24,5 @@ If you want to email me, feel free to use the address <cfgnunes@gmail.com>.
 
 ## Curriculum
 
-- [Professional]({% if site.curriculum-external %}{{ site.curriculum-url }}{% else %}{{ site.url }}/{{ site.curriculum-url }}{% endif %})
+- [Professional](https://drive.google.com/file/d/1zNhdNFh9MIBYOWQ6iy9Efr9-JFVCV2C3/view)
 - [Lattes Platform](http://lattes.cnpq.br/3985172295525735)

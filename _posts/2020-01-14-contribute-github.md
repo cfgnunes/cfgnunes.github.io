@@ -2,8 +2,6 @@
 title: "How to contribute to a project on Github"
 layout: post
 date: 2020-01-14 08:54
-image: https://github.githubassets.com/images/modules/logos_page/Octocat.png
-headerImage: true
 tag:
   - development
 star: false

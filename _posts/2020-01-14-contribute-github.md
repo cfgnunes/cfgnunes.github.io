@@ -36,7 +36,7 @@ This is very important, create one branch per patch.
 
 Make your patch, change the code, fix a bug, add a cool feature, etc. When you are done, commit your changes:
 
-```sh
+```bash
 git add -u
 git commit -m "Fixing some broken feature"
 ```

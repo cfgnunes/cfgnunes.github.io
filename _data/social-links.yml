@@ -40,7 +40,7 @@
   url-pattern: pinterest.com/__USERNAME__
 
 - name: linkedin
-  url-pattern: linkedin.com/in/__USERNAME__
+  url-pattern: www.linkedin.com/in/__USERNAME__
   title: LinkedIn
 
 - name: youtube

@@ -22,7 +22,7 @@ Use the following command:
 make run
 ```
 
-Now, just open it in your browser: <http://localhost:4000>
+Now, just open it in your browser: <https://localhost:4000>
 
 ## Built With
 

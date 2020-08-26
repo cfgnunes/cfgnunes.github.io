@@ -15,8 +15,7 @@ help:
 env: $(VENDOR_FILE)
 $(VENDOR_FILE): Gemfile
 	@echo "Preparing development environment..."
-	@bundle config set path 'vendor/bundle'
-	@bundle install
+	@bundle install --path vendor/bundle
 	@touch $(VENDOR_FILE)
 	@echo "Done!"
 	@echo

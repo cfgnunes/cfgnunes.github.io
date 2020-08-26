@@ -29,9 +29,6 @@
   url-pattern: twitter.com/__USERNAME__
   title: Twitter
 
-- name: google
-  url-pattern: plus.google.com/+__USERNAME__
-
 - name: instagram
   url-pattern: instagram.com/__USERNAME__
   title: Instagram

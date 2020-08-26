@@ -29,15 +29,15 @@ disqus:
 
 # If you don't have any of social below, comment the line
 email: cfgnunes@gmail.com
-# facebook: cristianofraganunes
+facebook: cristianofraganunes
 github: cfgnunes
-# instagram: cfgnunes
+instagram: cfgnunes
 lattes: 3985172295525735
 # pinterest: mypinterest
 linkedin: cfgnunes
 researchgate: Cristiano_Nunes3
 scholar: nrrROToAAAAJ
-# skoob: 3647026
+skoob: 3647026
 spotify: cfgnunes
 # twitter: cfgnunes
 youtube: cfgnunes
@@ -78,7 +78,7 @@ authors:
 # Do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # If you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:

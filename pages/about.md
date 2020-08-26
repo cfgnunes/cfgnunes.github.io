@@ -12,14 +12,6 @@ Cristiano holds a bachelor's degree in Computer Engineering and Electronics Tech
 
 <div class="breaker"></div>
 
-Present in several social networks, such as
-[YouTube](https://youtube.com/cfgnunes),
-[Skoob](https://www.skoob.com.br/usuario/3647026),
-[Spotify](https://open.spotify.com/user/cfgnunes),
-[LinkedIn](https://linkedin.com/in/cfgnunes),
-[GitHub](https://github.com/cfgnunes),
-[ResearchGate](https://www.researchgate.net/profile/Cristiano_Nunes3) and
-[Google Scholar](https://scholar.google.com/citations?user=nrrROToAAAAJ).
 If you want to email me, feel free to use the address <cfgnunes@gmail.com>.
 
 ## Curriculum

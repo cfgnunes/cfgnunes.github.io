@@ -19,7 +19,7 @@ Make your working copy of the project by forking it: go on the project page (<ht
 
 After forking the repository, clone your fork git repository on your local computer.
 
-```sh
+```bash
 git clone git@github.com:YOUR_USERNAME/latex-cefetmg.git
 ```
 
@@ -27,7 +27,7 @@ git clone git@github.com:YOUR_USERNAME/latex-cefetmg.git
 
 Create a new branch for your patch:
 
-```sh
+```bash
 git branch my-patch
 git checkout my-patch
 ```
@@ -43,7 +43,7 @@ git commit -m "Fixing some broken feature"
 
 Push your new branch to github:
 
-```sh
+```bash
 git push origin my-patch
 ```
 

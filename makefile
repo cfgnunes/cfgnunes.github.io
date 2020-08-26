@@ -29,7 +29,7 @@ run: env
 test: env
 	@echo "Running the tests..."
 	@bundle exec jekyll build
-	@bundle exec htmlproofer ./_site --only-4xx
+	@bundle exec htmlproofer ./_site --http-status-ignore "403"
 	@echo "Done!"
 	@echo
 

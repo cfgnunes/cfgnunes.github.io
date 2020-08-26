@@ -138,4 +138,11 @@ compress_html:
       - development
       - stage
 
-exclude: ["README.md", "Gemfile", "Gemfile.lock", "vendor/bundle", "makefile"]
+exclude:
+  [
+  "README.md",
+  "Gemfile",
+  "Gemfile.lock",
+  "vendor/bundle",
+  "makefile"
+  ]

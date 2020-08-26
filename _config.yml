@@ -78,7 +78,7 @@ authors:
 # Do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # If you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:

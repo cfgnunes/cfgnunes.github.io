@@ -3,7 +3,7 @@ title: Useful Linux commands and tricks
 layout: post
 date: 2014-01-01 00:00
 tag:
-  - development
+  - linux
 star: false
 category: blog
 author: cfgnunes

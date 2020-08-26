@@ -92,11 +92,13 @@ figure.highlight
 
 code,
 tt
-	padding: 1px 0
+	padding: .2em 0
+	margin: 0
 	font-family: $fontMonospace
-	font-size: 12px
+	font-size: 1.2rem
 	line-height: 20px
-	border-radius: 2px
+	border-radius: 3px
+	background-color: #fafafa
 
 pre
 	box-sizing: border-box
@@ -111,11 +113,14 @@ pre
 	border: 1px solid $epsilon
 	border-radius: 2px
 
-table, th, td
-	border-top: 1px solid $epsilon
+table
+	border: 1px solid $epsilon
+	border-spacing: 0
+	border-collapse: collapse
 
-td
-    padding: 6px 13px;
+td, th
+	border: 1px solid $epsilon
+	padding: 5px 10px
 
 .wrapper-normal,
 .wrapper-large
@@ -133,4 +138,4 @@ td
 	max-width: 560px
 
 .wrapper-large
-	max-width: 810px
+	max-width: 760px

@@ -40,6 +40,10 @@ To clone HDDs with failures, use the parameter `conv=noerror`.
 
 ## Partition and filesystem operations
 
+### Copy files recursively  with 'rsync'
+
+    rsync -av [SRC_DIRECTORY] [DST_DIRECTORY]
+ 
 ### Check partition filesystem
 
 PS.: the partition must be unmounted in all cases.

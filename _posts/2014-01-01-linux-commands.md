@@ -40,6 +40,10 @@ To clone HDDs with failures, use the parameter `conv=noerror`.
 
 ## Partition and filesystem operations
 
+### Make a MD5 sum of a directory's contents as one sum
+
+    find . -type f -exec md5sum {} \; | sort | md5sum
+
 ### Copy files recursively  with 'rsync'
 
     rsync -av [SRC_DIRECTORY] [DST_DIRECTORY]

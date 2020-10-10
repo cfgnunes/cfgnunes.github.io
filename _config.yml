@@ -140,9 +140,10 @@ compress_html:
 
 exclude:
   [
-  "README.md",
-  "Gemfile",
+  ".github",
   "Gemfile.lock",
-  "vendor/bundle",
-  "makefile"
+  "Gemfile",
+  "makefile",
+  "README.md",
+  "vendor/bundle"
   ]

@@ -72,6 +72,10 @@ And corruption means comparison with previously written data.
 
     sudo badblocks -s -w /dev/sdb
 
+### View files/disks in hexadeximal
+
+    sudo xxd /dev/sdb | less
+
 ### List the UUID of all partitions
 
     sudo blkid

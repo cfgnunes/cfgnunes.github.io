@@ -387,7 +387,7 @@ Uses 90% of RAM before Linux kernel begins swapping:
 
 ### Remove residual configs
 
-    apt remove --purge -y "$(dpkg -l | grep '^rc' | awk '{print $2}')"
+    dpkg -l | grep '^rc' | awk '{print $2}' | xargs sudo apt-get -y purge
 
 ### List history of installed packages
 

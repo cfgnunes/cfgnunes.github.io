@@ -522,12 +522,15 @@ P.S.: Need install the package `iptables-persistent`.
 
     iwlist
 
-### WPA/WPA2 and WPS cracking
+### WPA/WPA2 and WPS testing
 
-The following tool is a script that uses `aircrack-ng`, `reaver`, `bully` and others.
+The following tool is a script that uses `aircrack-ng`, `reaver`, `bully` and others:
 
     wifite
-    wifite --no-wps
+
+To test a wordlist in a captured handshake file:
+
+    aircrack-ng -a 2 -w wordlist.txt handshake.cap
 
 ### Gerenate a wordlist with numbers from 00000000 to 99999999
 

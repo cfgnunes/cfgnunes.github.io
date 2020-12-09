@@ -524,14 +524,14 @@ P.S.: Need install the package `iptables-persistent`.
 
 ### WPA/WPA2 and WPS cracking
 
-    airmon-ng
-    airmon-ng start wlan0
-    wash -i wlan0mon
-    reaver -i wlan0mon -b [BSSID] -c [CHANNEL] -vv -K 1 / bully wlan0mon -b [BSSID] -c [CHANNEL]
+The following tool is a script that uses `aircrack-ng`, `reaver`, `bully` and others.
 
-If you already have the PIN:
+    wifite
+    wifite --no-wps
 
-    reaver -i wlan0mon --b [BSSID] -c [CHANNEL] -vv -p [PIN] / bully wlan0mon -b [BSSID] -c [CHANNEL] -p [PIN]
+### Gerenate a wordlist with numbers from 00000000 to 99999999
+
+    crunch 8 8 0123456789 -o wordlist.txt
 
 ### Enable Wireshark capture
 

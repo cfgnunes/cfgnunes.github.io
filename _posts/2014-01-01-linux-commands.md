@@ -528,9 +528,13 @@ The following tool is a script that uses `aircrack-ng`, `reaver`, `bully` and ot
 
     wifite
 
-To test a wordlist in a captured handshake file:
+To test a wordlist in a captured WPA handshake file:
 
     aircrack-ng -a 2 -w wordlist.txt handshake.cap
+
+Or if you need GPU support (note that you need convert '.cap' to '.hccapx' file):
+
+    hashcat -m 2500 handshake.hccapx wordlist.txt
 
 ### Gerenate a wordlist with numbers from 00000000 to 99999999
 

@@ -10,7 +10,7 @@ description: A blog about technology
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://cfgnunes.com
+url: https://cfgnunes.github.io
 
 # Define default permalink for all pages if it was not set
 permalink: /:title/

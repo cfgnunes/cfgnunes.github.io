@@ -1418,3 +1418,7 @@ If you want change the language, you can also edit `~/.config/user-dirs.locale`.
 ### Define the default Java to be used
 
     sudo update-alternatives --config java
+
+### Multi-connection multi-part file download
+
+    aria2c -m 10 -s 10 -x 10 https://example.com/file.name

@@ -405,6 +405,10 @@ Or also:
 
     apt --installed list | grep -v "Listing..." | sed 's/\/.*//g'
 
+### List installed packages and sort by estimated size (which installed software packages use the most disk space)
+
+    dpkg-query -Wf '${Installed-Size}\t${Package}\n' | sort -n
+
 ### Create a Debian binary package
 
     debuild -us -uc

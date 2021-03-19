@@ -1,6 +1,6 @@
 # My personal website [![Actions Status](https://github.com/cfgnunes/cfgnunes.github.io/workflows/build/badge.svg)](https://github.com/cfgnunes/cfgnunes.github.io/actions)
 
-Repository of my personal website published in <https://cfgnunes.com>.
+Repository of my personal website published in <https://cfgnunes.github.io>.
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ Other tools:
 
 ## Authors
 
-- Cristiano Nunes - _Developer_
+- Cristiano Nunes
 
 ## Acknowledgments
 

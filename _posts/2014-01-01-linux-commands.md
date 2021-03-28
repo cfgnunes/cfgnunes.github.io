@@ -893,6 +893,10 @@ To check the configuration, see the file `/etc/default/keyboard`.
     ls /etc/cron.weekly/
     ls /etc/cron.monthly/
 
+### Generate a random password with 16 characters
+
+    date +%s | sha256sum | base64 | head -c 32 ; echo
+
 ### Change the user password
 
     passwd [USER]

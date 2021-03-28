@@ -895,7 +895,7 @@ To check the configuration, see the file `/etc/default/keyboard`.
 
 ### Generate a random password with 16 characters
 
-    date +%s | sha256sum | base64 | head -c 32 ; echo
+    date +%s | sha256sum | base64 | head -c 16 ; echo
 
 ### Change the user password
 

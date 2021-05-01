@@ -90,7 +90,7 @@ pagination:
 
 # Enable or disable the pages
 blog: true
-projects: true
+projects: false
 about: true
 
 # Show the "read time" of the posts

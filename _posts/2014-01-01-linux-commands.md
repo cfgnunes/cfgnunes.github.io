@@ -1251,6 +1251,10 @@ Restores everything to the last commit:
     git push --delete origin tagname
     git tag --delete tagname
 
+### Clean the repository by deleting untracked and ignored files by .gitignore
+
+    git clean -xdf
+
 ## Reverse engineering in executables
 
 ### Display information from an ELF executable

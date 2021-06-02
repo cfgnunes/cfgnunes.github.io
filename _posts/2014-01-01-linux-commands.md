@@ -839,7 +839,7 @@ Or also:
 
 ### Create a frequency list of every word in a file (histogram of words)
 
-    cat "file.txt" | tr ' ,' '\n' | sort | uniq -c | awk '{print $2"@"$1}'
+    cat "file.txt" | tr ' ,' '\n' | sort | uniq -c | awk '{printf("%03d: %s\n", $1, $2)}'
 
 ## Logs and system information
 

@@ -837,6 +837,10 @@ Or also:
 
     find . -type f -iname "*.cpp" -exec sed -i -e "s|wxLame|wxMP3val|g" {} \;
 
+### Create a frequency list of every word in a file (histogram of words)
+
+    cat "file.txt" | tr ' ,' '\n' | sort | uniq -c | awk '{print $2"@"$1}'
+
 ## Logs and system information
 
 ### Display multiple system informations

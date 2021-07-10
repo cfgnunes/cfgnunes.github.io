@@ -40,7 +40,7 @@ To clone HDDs with failures, use the parameter `conv=noerror`.
 
 ## Partition and filesystem operations
 
-### View EFI informations
+### View UEFI informations
     efibootmgr -v
 
 ### Make a MD5 sum of a directory's contents as one sum

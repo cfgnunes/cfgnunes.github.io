@@ -1,3 +1,4 @@
 [submodule "nautilus-scripts"]
 	path = nautilus-scripts
 	url = https://github.com/cfgnunes/nautilus-scripts.git
+	branch = main

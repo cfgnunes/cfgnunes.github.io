@@ -1,7 +1,3 @@
-[submodule "nautilus-scripts"]
-	path = nautilus-scripts
-	url = https://github.com/cfgnunes/nautilus-scripts.git
-	branch = main
 [submodule "fm-scripts"]
 	path = fm-scripts
 	url = git@github.com:cfgnunes/fm-scripts.git

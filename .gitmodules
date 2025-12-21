@@ -1,6 +1,6 @@
 [submodule "fm-scripts"]
 	path = fm-scripts
-	url = git@github.com:cfgnunes/fm-scripts.git
+	url = git@github.com:cfgnunes/nautilus-scripts.git
 [submodule "nautilus-scripts"]
 	path = nautilus-scripts
-	url = git@github.com:cfgnunes/fm-scripts.git
+	url = git@github.com:cfgnunes/nautilus-scripts.git
